@@ -1,0 +1,3376 @@
+Number,Session,Gender,ID,Expression,Angle,Encoding_expression,Encoding_angle
+475,A,F,14,Sad,Left,5,2
+3943,B,M,09,Surprised,Half Left,6,0
+4216,B,M,17,Surprised,Left,6,2
+4101,B,M,14,Happy,Left,3,2
+3277,B,F,25,Sad,Half Left,5,0
+4556,B,M,28,Disgusted,Right,2,3
+1702,A,M,15,Afraid,Half Left,0,0
+845,A,F,25,Happy,Left,3,2
+920,A,F,27,Neutral,Left,4,2
+3269,B,F,25,Happy,Straight,3,4
+1905,A,M,21,Angry,Left,1,2
+3402,B,F,29,Disgusted,Half Left,2,0
+2271,A,M,31,Sad,Half Left,5,0
+1375,A,M,05,Neutral,Half Left,4,0
+4231,B,M,18,Disgusted,Left,2,2
+2859,B,F,13,Sad,Right,5,3
+4456,B,M,25,Disgusted,Straight,2,4
+4368,B,M,22,Sad,Half Right,5,1
+4092,B,M,14,Angry,Right,1,3
+1326,A,M,04,Angry,Half Right,1,1
+645,A,F,19,Neutral,Straight,4,4
+3773,B,M,05,Afraid,Half Left,0,0
+2450,B,F,01,Surprised,Half Left,6,0
+3602,B,F,35,Afraid,Half Left,0,0
+3454,B,F,30,Sad,Straight,5,4
+4529,B,M,27,Happy,Half Right,3,1
+371,A,F,11,Sad,Right,5,3
+2980,B,F,17,Angry,Half Left,1,0
+2566,B,F,05,Angry,Half Right,1,1
+1204,A,F,35,Neutral,Straight,4,4
+3645,B,M,01,Disgusted,Left,2,2
+965,A,F,28,Surprised,Left,6,2
+2771,B,F,11,Angry,Left,1,2
+3507,B,F,32,Disgusted,Half Left,2,0
+1367,A,M,05,Disgusted,Straight,2,4
+1815,A,M,18,Happy,Left,3,2
+1026,A,F,30,Neutral,Right,4,3
+1267,A,M,02,Happy,Half Right,3,1
+320,A,F,10,Angry,Straight,1,4
+3742,B,M,04,Angry,Right,1,3
+2625,B,F,06,Surprised,Half Left,6,0
+1401,A,M,06,Disgusted,Half Right,2,1
+3154,B,F,22,Angry,Straight,1,4
+1203,A,F,35,Neutral,Half Right,4,1
+2010,A,M,24,Angry,Left,1,2
+4431,B,M,24,Neutral,Straight,4,4
+3882,B,M,08,Angry,Right,1,3
+480,A,F,14,Surprised,Left,6,2
+2817,B,F,12,Happy,Half Right,3,1
+3158,B,F,22,Disgusted,Half Right,2,1
+1781,A,M,17,Happy,Left,3,2
+2685,B,F,08,Neutral,Half Right,4,1
+4108,B,M,14,Neutral,Half Left,4,0
+2708,B,F,09,Disgusted,Half Left,2,0
+399,A,F,12,Happy,Straight,3,4
+2227,A,M,30,Happy,Half Left,3,0
+1278,A,M,02,Sad,Straight,5,4
+3174,B,F,22,Sad,Straight,5,4
+1041,A,F,31,Afraid,Right,0,3
+3940,B,M,09,Sad,Straight,5,4
+2910,B,F,15,Angry,Half Left,1,0
+300,A,F,09,Neutral,Half Right,4,1
+2127,A,M,27,Neutral,Right,4,3
+3850,B,M,07,Angry,Straight,1,4
+58,A,F,02,Neutral,Straight,4,4
+593,A,F,18,Afraid,Half Right,0,1
+4389,B,M,23,Happy,Left,3,2
+448,A,F,13,Surprised,Half Right,6,1
+4195,B,M,17,Angry,Half Right,1,1
+1211,A,F,35,Surprised,Right,6,3
+2672,B,F,08,Angry,Straight,1,4
+523,A,F,16,Afraid,Half Right,0,1
+1379,A,M,05,Sad,Right,5,3
+2254,A,M,31,Disgusted,Left,2,2
+1166,A,F,34,Neutral,Right,4,3
+3097,B,F,20,Neutral,Half Left,4,0
+1709,A,M,15,Disgusted,Right,2,3
+2258,A,M,31,Disgusted,Straight,2,4
+948,A,F,28,Disgusted,Half Right,2,1
+3494,B,F,31,Surprised,Straight,6,4
+3208,B,F,23,Sad,Half Right,5,1
+966,A,F,28,Surprised,Right,6,3
+3165,B,F,22,Neutral,Left,4,2
+4754,B,M,34,Afraid,Half Left,0,0
+3505,B,F,32,Disgusted,Left,2,2
+2709,B,F,09,Disgusted,Half Right,2,1
+1442,A,M,07,Happy,Straight,3,4
+3458,B,F,30,Surprised,Half Right,6,1
+2607,B,F,06,Disgusted,Straight,2,4
+2035,A,M,24,Surprised,Right,6,3
+4329,B,M,21,Neutral,Half Left,4,0
+3029,B,F,18,Neutral,Half Left,4,0
+3334,B,F,27,Disgusted,Straight,2,4
+1658,A,M,13,Sad,Half Right,5,1
+4496,B,M,26,Neutral,Left,4,2
+781,A,F,23,Neutral,Right,4,3
+784,A,F,23,Neutral,Straight,4,4
+3433,B,F,30,Angry,Half Right,1,1
+3108,B,F,20,Surprised,Half Right,6,1
+4100,B,M,14,Disgusted,Straight,2,4
+1732,A,M,15,Surprised,Straight,6,4
+4343,B,M,22,Afraid,Right,0,3
+1151,A,F,34,Angry,Right,1,3
+2664,B,F,08,Afraid,Right,0,3
+1512,A,M,09,Happy,Straight,3,4
+4781,B,M,34,Sad,Straight,5,4
+3961,B,M,10,Happy,Left,3,2
+4266,B,M,19,Happy,Left,3,2
+2862,B,F,13,Sad,Straight,5,4
+2479,B,F,02,Sad,Right,5,3
+2441,B,F,01,Neutral,Half Right,4,1
+3380,B,F,28,Sad,Left,5,2
+330,A,F,10,Happy,Straight,3,4
+4243,B,M,18,Neutral,Half Left,4,0
+423,A,F,13,Angry,Half Right,1,1
+4137,B,M,15,Happy,Half Left,3,0
+2438,B,F,01,Neutral,Left,4,2
+4595,B,M,29,Happy,Left,3,2
+3319,B,F,26,Surprised,Straight,6,4
+1531,A,M,10,Afraid,Half Right,0,1
+706,A,F,21,Happy,Right,3,3
+967,A,F,28,Surprised,Half Left,6,0
+576,A,F,17,Neutral,Right,4,3
+2166,A,M,28,Sad,Right,5,3
+228,A,F,07,Happy,Straight,3,4
+389,A,F,12,Angry,Straight,1,4
+1519,A,M,09,Sad,Right,5,3
+1670,A,M,14,Angry,Left,1,2
+329,A,F,10,Happy,Half Right,3,1
+4218,B,M,17,Surprised,Half Left,6,0
+11,A,F,01,Disgusted,Right,2,3
+3519,B,F,32,Neutral,Straight,4,4
+1376,A,M,05,Neutral,Half Right,4,1
+4472,B,M,25,Surprised,Left,6,2
+3385,B,F,28,Surprised,Left,6,2
+992,A,F,29,Neutral,Half Left,4,0
+4312,B,M,21,Afraid,Straight,0,4
+3153,B,F,22,Angry,Half Right,1,1
+37,A,F,02,Afraid,Half Right,0,1
+4176,B,M,16,Neutral,Straight,4,4
+3338,B,F,27,Happy,Half Right,3,1
+2880,B,F,14,Disgusted,Half Left,2,0
+4569,B,M,28,Neutral,Straight,4,4
+205,A,F,06,Surprised,Right,6,3
+3513,B,F,32,Happy,Half Right,3,1
+2175,A,M,29,Afraid,Left,0,2
+1028,A,F,30,Neutral,Half Right,4,1
+1618,A,M,12,Neutral,Right,4,3
+1327,A,M,04,Angry,Straight,1,4
+1060,A,F,31,Neutral,Left,4,2
+844,A,F,25,Disgusted,Straight,2,4
+166,A,F,05,Sad,Half Left,5,0
+1403,A,M,06,Happy,Left,3,2
+4027,B,M,12,Disgusted,Right,2,3
+3240,B,F,24,Sad,Left,5,2
+3649,B,M,01,Happy,Left,3,2
+1293,A,M,03,Angry,Straight,1,4
+955,A,F,28,Neutral,Left,4,2
+1902,A,M,21,Afraid,Half Left,0,0
+3147,B,F,22,Afraid,Half Left,0,0
+3297,B,F,26,Disgusted,Half Left,2,0
+4445,B,M,25,Afraid,Half Right,0,1
+3283,B,F,25,Surprised,Half Right,6,1
+1683,A,M,14,Happy,Half Right,3,1
+2626,B,F,06,Surprised,Half Right,6,1
+1981,A,M,23,Disgusted,Right,2,3
+1858,A,M,19,Neutral,Half Right,4,1
+4476,B,M,25,Surprised,Straight,6,4
+1923,A,M,21,Neutral,Half Right,4,1
+946,A,F,28,Disgusted,Right,2,3
+3925,B,M,09,Disgusted,Straight,2,4
+1504,A,M,09,Disgusted,Right,2,3
+1624,A,M,12,Sad,Half Right,5,1
+2448,B,F,01,Surprised,Left,6,2
+944,A,F,28,Angry,Straight,1,4
+3285,B,F,26,Afraid,Left,0,2
+1700,A,M,15,Afraid,Left,0,2
+1808,A,M,18,Angry,Half Right,1,1
+2530,B,F,04,Angry,Half Left,1,0
+3533,B,F,33,Afraid,Half Right,0,1
+3867,B,M,07,Sad,Right,5,3
+1094,A,F,32,Happy,Straight,3,4
+4215,B,M,17,Sad,Straight,5,4
+155,A,F,05,Happy,Right,3,3
+3784,B,M,05,Disgusted,Half Right,2,1
+1769,A,M,17,Afraid,Half Left,0,0
+758,A,F,22,Surprised,Half Right,6,1
+241,A,F,07,Surprised,Half Left,6,0
+1984,A,M,23,Disgusted,Straight,2,4
+4336,B,M,21,Sad,Straight,5,4
+452,A,F,14,Afraid,Half Left,0,0
+810,A,F,24,Happy,Left,3,2
+456,A,F,14,Angry,Right,1,3
+1420,A,M,06,Surprised,Half Left,6,0
+4160,B,M,16,Angry,Half Right,1,1
+3243,B,F,24,Sad,Half Right,5,1
+4587,B,M,29,Angry,Half Left,1,0
+2005,A,M,24,Afraid,Left,0,2
+2615,B,F,06,Neutral,Half Left,4,0
+703,A,F,21,Disgusted,Half Right,2,1
+351,A,F,11,Angry,Left,1,2
+1846,A,M,19,Disgusted,Right,2,3
+4550,B,M,28,Angry,Left,1,2
+2033,A,M,24,Sad,Straight,5,4
+183,A,F,06,Angry,Straight,1,4
+3839,B,M,06,Surprised,Half Right,6,1
+343,A,F,10,Surprised,Half Left,6,0
+2932,B,F,15,Sad,Straight,5,4
+361,A,F,11,Happy,Left,3,2
+1995,A,M,23,Sad,Left,5,2
+4459,B,M,25,Happy,Half Left,3,0
+585,A,F,17,Surprised,Left,6,2
+1756,A,M,16,Neutral,Half Right,4,1
+1394,A,M,06,Angry,Right,1,3
+3211,B,F,23,Surprised,Right,6,3
+2652,B,F,07,Neutral,Straight,4,4
+613,A,F,18,Sad,Left,5,2
+3042,B,F,19,Afraid,Half Left,0,0
+376,A,F,11,Surprised,Right,6,3
+132,A,F,04,Sad,Half Right,5,1
+2046,A,M,25,Angry,Half Left,1,0
+1598,A,M,12,Afraid,Left,0,2
+3932,B,M,09,Neutral,Right,4,3
+2903,B,F,15,Afraid,Left,0,2
+2801,B,F,12,Afraid,Half Left,0,0
+266,A,F,08,Neutral,Half Right,4,1
+2644,B,F,07,Happy,Right,3,3
+3268,B,F,25,Happy,Half Right,3,1
+1706,A,M,15,Angry,Half Left,1,0
+2891,B,F,14,Neutral,Half Right,4,1
+4043,B,M,12,Sad,Half Left,5,0
+1805,A,M,18,Angry,Left,1,2
+365,A,F,11,Happy,Straight,3,4
+720,A,F,21,Surprised,Left,6,2
+960,A,F,28,Sad,Left,5,2
+71,A,F,03,Afraid,Half Left,0,0
+1488,A,M,08,Surprised,Left,6,2
+2571,B,F,05,Disgusted,Half Right,2,1
+2136,A,M,27,Surprised,Left,6,2
+4788,B,M,35,Afraid,Right,0,3
+395,A,F,12,Happy,Left,3,2
+607,A,F,18,Happy,Straight,3,4
+1633,A,M,13,Afraid,Half Right,0,1
+3110,B,F,21,Afraid,Left,0,2
+1890,A,M,20,Neutral,Half Left,4,0
+567,A,F,17,Disgusted,Half Left,2,0
+249,A,F,08,Angry,Left,1,2
+3233,B,F,24,Happy,Half Right,3,1
+4645,B,M,30,Surprised,Half Left,6,0
+4799,B,M,35,Disgusted,Half Left,2,0
+4124,B,M,15,Afraid,Half Right,0,1
+2528,B,F,04,Angry,Left,1,2
+4759,B,M,34,Angry,Half Left,1,0
+779,A,F,23,Happy,Straight,3,4
+1886,A,M,20,Happy,Half Right,3,1
+200,A,F,06,Sad,Right,5,3
+3220,B,F,24,Angry,Left,1,2
+2431,B,F,01,Disgusted,Half Right,2,1
+942,A,F,28,Angry,Half Left,1,0
+150,A,F,05,Disgusted,Right,2,3
+1422,A,M,06,Surprised,Straight,6,4
+1828,A,M,18,Sad,Half Right,5,1
+4380,B,M,23,Angry,Right,1,3
+3464,B,F,31,Afraid,Straight,0,4
+4150,B,M,15,Surprised,Half Left,6,0
+3610,B,F,35,Disgusted,Left,2,2
+4805,B,M,35,Happy,Half Right,3,1
+1804,A,M,18,Afraid,Straight,0,4
+3824,B,M,06,Happy,Half Right,3,1
+4288,B,M,20,Disgusted,Half Left,2,0
+3026,B,F,18,Happy,Straight,3,4
+2756,B,F,10,Sad,Left,5,2
+4657,B,M,31,Angry,Straight,1,4
+598,A,F,18,Angry,Straight,1,4
+4753,B,M,34,Afraid,Right,0,3
+4285,B,M,20,Angry,Left,1,2
+3643,B,M,01,Angry,Half Right,1,1
+1018,A,F,30,Disgusted,Half Right,2,1
+3191,B,F,23,Disgusted,Right,2,3
+610,A,F,18,Neutral,Half Left,4,0
+1207,A,F,35,Sad,Half Left,5,0
+118,A,F,04,Disgusted,Straight,2,4
+3381,B,F,28,Sad,Right,5,3
+3213,B,F,23,Surprised,Half Right,6,1
+288,A,F,09,Disgusted,Right,2,3
+3131,B,F,21,Neutral,Right,4,3
+3970,B,M,10,Neutral,Straight,4,4
+994,A,F,29,Neutral,Straight,4,4
+2185,A,M,29,Disgusted,Left,2,2
+3472,B,F,31,Disgusted,Half Left,2,0
+1767,A,M,17,Afraid,Left,0,2
+461,A,F,14,Disgusted,Right,2,3
+3816,B,M,06,Disgusted,Left,2,2
+520,A,F,16,Afraid,Left,0,2
+2492,B,F,03,Afraid,Straight,0,4
+589,A,F,17,Surprised,Straight,6,4
+1668,A,M,14,Afraid,Half Right,0,1
+1297,A,M,03,Disgusted,Half Right,2,1
+3500,B,F,32,Angry,Left,1,2
+340,A,F,10,Sad,Straight,5,4
+1260,A,M,02,Disgusted,Left,2,2
+1979,A,M,23,Angry,Straight,1,4
+1392,A,M,06,Afraid,Straight,0,4
+2611,B,F,06,Happy,Half Right,3,1
+511,A,F,15,Sad,Right,5,3
+3893,B,M,08,Happy,Half Left,3,0
+3272,B,F,25,Neutral,Half Left,4,0
+3198,B,F,23,Happy,Half Right,3,1
+3081,B,F,20,Angry,Right,1,3
+3396,B,F,29,Angry,Right,1,3
+405,A,F,12,Sad,Left,5,2
+4263,B,M,19,Disgusted,Half Left,2,0
+501,A,F,15,Happy,Right,3,3
+1440,A,M,07,Happy,Half Left,3,0
+4011,B,M,11,Surprised,Left,6,2
+971,A,F,29,Afraid,Right,0,3
+1824,A,M,18,Neutral,Straight,4,4
+1279,A,M,02,Surprised,Left,6,2
+1654,A,M,13,Neutral,Straight,4,4
+4210,B,M,17,Neutral,Half Right,4,1
+2377,A,M,34,Sad,Straight,5,4
+1009,A,F,30,Afraid,Straight,0,4
+3636,B,M,01,Afraid,Right,0,3
+4785,B,M,34,Surprised,Half Right,6,1
+1921,A,M,21,Neutral,Right,4,3
+4035,B,M,12,Happy,Straight,3,4
+4748,B,M,33,Surprised,Right,6,3
+3025,B,F,18,Happy,Half Right,3,1
+2769,B,F,11,Afraid,Half Right,0,1
+103,A,F,03,Surprised,Straight,6,4
+4270,B,M,19,Happy,Straight,3,4
+2645,B,F,07,Happy,Half Left,3,0
+515,A,F,15,Surprised,Left,6,2
+1409,A,M,06,Neutral,Right,4,3
+202,A,F,06,Sad,Half Right,5,1
+3511,B,F,32,Happy,Right,3,3
+1377,A,M,05,Neutral,Straight,4,4
+3442,B,F,30,Happy,Half Left,3,0
+4772,B,M,34,Neutral,Left,4,2
+4256,B,M,19,Afraid,Right,0,3
+4487,B,M,26,Disgusted,Right,2,3
+2957,B,F,16,Happy,Straight,3,4
+4794,B,M,35,Angry,Half Left,1,0
+2423,B,F,01,Angry,Left,1,2
+3962,B,M,10,Happy,Right,3,3
+1112,A,F,33,Afraid,Half Left,0,0
+3864,B,M,07,Neutral,Half Right,4,1
+89,A,F,03,Neutral,Left,4,2
+3605,B,F,35,Angry,Left,1,2
+1290,A,M,03,Angry,Right,1,3
+4424,B,M,24,Happy,Half Left,3,0
+291,A,F,09,Disgusted,Straight,2,4
+4573,B,M,28,Sad,Half Right,5,1
+453,A,F,14,Afraid,Half Right,0,1
+4455,B,M,25,Disgusted,Half Right,2,1
+2869,B,F,14,Afraid,Right,0,3
+242,A,F,07,Surprised,Half Right,6,1
+264,A,F,08,Neutral,Right,4,3
+1860,A,M,19,Sad,Right,5,3
+367,A,F,11,Neutral,Right,4,3
+243,A,F,07,Surprised,Straight,6,4
+4687,B,M,32,Afraid,Straight,0,4
+336,A,F,10,Sad,Left,5,2
+1156,A,F,34,Disgusted,Right,2,3
+3086,B,F,20,Disgusted,Right,2,3
+1917,A,M,21,Happy,Half Left,3,0
+1077,A,F,32,Afraid,Half Left,0,0
+2345,A,M,33,Surprised,Right,6,3
+4528,B,M,27,Happy,Half Left,3,0
+3136,B,F,21,Sad,Right,5,3
+4402,B,M,23,Sad,Half Right,5,1
+959,A,F,28,Neutral,Straight,4,4
+1188,A,F,35,Angry,Half Right,1,1
+1000,A,F,29,Surprised,Left,6,2
+4033,B,M,12,Happy,Half Left,3,0
+2930,B,F,15,Sad,Half Left,5,0
+3653,B,M,01,Neutral,Left,4,2
+3713,B,M,03,Disgusted,Right,2,3
+4399,B,M,23,Sad,Left,5,2
+2111,A,M,27,Angry,Left,1,2
+4612,B,M,29,Surprised,Half Right,6,1
+4527,B,M,27,Happy,Right,3,3
+362,A,F,11,Happy,Right,3,3
+3892,B,M,08,Happy,Right,3,3
+3903,B,M,08,Sad,Half Left,5,0
+1839,A,M,19,Afraid,Straight,0,4
+4533,B,M,27,Neutral,Half Left,4,0
+3905,B,M,08,Sad,Straight,5,4
+1194,A,F,35,Disgusted,Straight,2,4
+1247,A,M,01,Surprised,Half Left,6,0
+338,A,F,10,Sad,Half Left,5,0
+1495,A,M,09,Afraid,Half Left,0,0
+551,A,F,16,Surprised,Right,6,3
+1196,A,F,35,Happy,Right,3,3
+850,A,F,25,Neutral,Left,4,2
+1942,A,M,22,Angry,Half Left,1,0
+2892,B,F,14,Neutral,Straight,4,4
+1257,A,M,02,Angry,Half Left,1,0
+2385,A,M,35,Afraid,Half Left,0,0
+3376,B,F,28,Neutral,Right,4,3
+619,A,F,18,Surprised,Half Left,6,0
+868,A,F,26,Afraid,Half Right,0,1
+1641,A,M,13,Disgusted,Right,2,3
+4398,B,M,23,Neutral,Straight,4,4
+1790,A,M,17,Neutral,Straight,4,4
+505,A,F,15,Neutral,Left,4,2
+778,A,F,23,Happy,Half Right,3,1
+3527,B,F,32,Surprised,Half Left,6,0
+173,A,F,05,Surprised,Straight,6,4
+1381,A,M,05,Sad,Half Right,5,1
+1413,A,M,06,Sad,Left,5,2
+2422,B,F,01,Afraid,Straight,0,4
+1305,A,M,03,Neutral,Right,4,3
+4815,B,M,35,Sad,Half Right,5,1
+171,A,F,05,Surprised,Half Left,6,0
+2059,A,M,25,Neutral,Right,4,3
+3729,B,M,03,Sad,Half Left,5,0
+1307,A,M,03,Neutral,Half Right,4,1
+265,A,F,08,Neutral,Half Left,4,0
+950,A,F,28,Happy,Left,3,2
+1004,A,F,29,Surprised,Straight,6,4
+1117,A,F,33,Angry,Half Left,1,0
+4439,B,M,24,Surprised,Half Left,6,0
+2123,A,M,27,Happy,Half Left,3,0
+562,A,F,17,Angry,Half Left,1,0
+1230,A,M,01,Happy,Left,3,2
+3751,B,M,04,Happy,Left,3,2
+287,A,F,09,Disgusted,Left,2,2
+2630,B,F,07,Afraid,Half Left,0,0
+951,A,F,28,Happy,Right,3,3
+1337,A,M,04,Happy,Straight,3,4
+1399,A,M,06,Disgusted,Right,2,3
+1907,A,M,21,Angry,Half Left,1,0
+2763,B,F,10,Surprised,Half Left,6,0
+742,A,F,22,Happy,Half Left,3,0
+3642,B,M,01,Angry,Half Left,1,0
+2592,B,F,05,Surprised,Straight,6,4
+2537,B,F,04,Disgusted,Straight,2,4
+592,A,F,18,Afraid,Half Left,0,0
+2668,B,F,08,Angry,Left,1,2
+41,A,F,02,Angry,Half Left,1,0
+3694,B,M,02,Sad,Half Left,5,0
+1793,A,M,17,Sad,Half Left,5,0
+1541,A,M,10,Disgusted,Half Right,2,1
+889,A,F,26,Neutral,Straight,4,4
+2843,B,F,13,Angry,Straight,1,4
+3983,B,M,11,Afraid,Half Left,0,0
+4489,B,M,26,Disgusted,Half Right,2,1
+4725,B,M,33,Angry,Half Left,1,0
+321,A,F,10,Disgusted,Left,2,2
+2646,B,F,07,Happy,Half Right,3,1
+3162,B,F,22,Happy,Half Left,3,0
+647,A,F,19,Sad,Right,5,3
+3479,B,F,31,Happy,Straight,3,4
+1742,A,M,16,Angry,Straight,1,4
+1904,A,M,21,Afraid,Straight,0,4
+3012,B,F,18,Afraid,Straight,0,4
+2390,A,M,35,Angry,Half Left,1,0
+2100,A,M,26,Sad,Straight,5,4
+4063,B,M,13,Disgusted,Half Left,2,0
+3265,B,F,25,Happy,Left,3,2
+2084,A,M,26,Disgusted,Half Left,2,0
+4736,B,M,33,Happy,Half Right,3,1
+4711,B,M,32,Sad,Half Right,5,1
+1945,A,M,22,Disgusted,Left,2,2
+2976,B,F,17,Afraid,Half Right,0,1
+724,A,F,21,Surprised,Straight,6,4
+1620,A,M,12,Neutral,Half Right,4,1
+2553,B,F,04,Surprised,Left,6,2
+2838,B,F,13,Afraid,Straight,0,4
+3537,B,F,33,Angry,Half Left,1,0
+4127,B,M,15,Angry,Right,1,3
+3121,B,F,21,Disgusted,Right,2,3
+1193,A,F,35,Disgusted,Half Right,2,1
+4474,B,M,25,Surprised,Half Left,6,0
+2198,A,M,29,Neutral,Half Right,4,1
+3238,B,F,24,Neutral,Half Right,4,1
+2656,B,F,07,Sad,Half Right,5,1
+3560,B,F,33,Surprised,Left,6,2
+3358,B,F,28,Afraid,Half Right,0,1
+1163,A,F,34,Happy,Half Right,3,1
+1643,A,M,13,Disgusted,Half Right,2,1
+4490,B,M,26,Disgusted,Straight,2,4
+2559,B,F,05,Afraid,Right,0,3
+3831,B,M,06,Sad,Left,5,2
+1880,A,M,20,Disgusted,Half Left,2,0
+4157,B,M,16,Angry,Left,1,2
+34,A,F,02,Afraid,Left,0,2
+1228,A,M,01,Disgusted,Half Right,2,1
+2603,B,F,06,Disgusted,Left,2,2
+4237,B,M,18,Happy,Right,3,3
+3200,B,F,23,Neutral,Left,4,2
+4420,B,M,24,Disgusted,Half Left,2,0
+4342,B,M,22,Afraid,Left,0,2
+39,A,F,02,Angry,Left,1,2
+4353,B,M,22,Disgusted,Right,2,3
+878,A,F,26,Disgusted,Half Right,2,1
+1239,A,M,01,Neutral,Straight,4,4
+2022,A,M,24,Happy,Half Left,3,0
+3637,B,M,01,Afraid,Half Left,0,0
+197,A,F,06,Neutral,Half Right,4,1
+2173,A,M,28,Surprised,Half Right,6,1
+4134,B,M,15,Disgusted,Straight,2,4
+4567,B,M,28,Neutral,Half Left,4,0
+1724,A,M,15,Sad,Right,5,3
+4816,B,M,35,Sad,Straight,5,4
+2579,B,F,05,Neutral,Right,4,3
+4466,B,M,25,Neutral,Straight,4,4
+2463,B,F,02,Disgusted,Left,2,2
+2299,A,M,32,Neutral,Left,4,2
+1236,A,M,01,Neutral,Right,4,3
+2828,B,F,12,Sad,Straight,5,4
+2845,B,F,13,Disgusted,Right,2,3
+203,A,F,06,Sad,Straight,5,4
+2540,B,F,04,Happy,Half Left,3,0
+1859,A,M,19,Sad,Left,5,2
+864,A,F,25,Surprised,Straight,6,4
+4175,B,M,16,Neutral,Half Right,4,1
+3225,B,F,24,Disgusted,Left,2,2
+3688,B,M,02,Neutral,Right,4,3
+1145,A,F,34,Afraid,Left,0,2
+804,A,F,24,Angry,Straight,1,4
+4282,B,M,20,Afraid,Right,0,3
+136,A,F,04,Surprised,Half Left,6,0
+318,A,F,10,Angry,Half Left,1,0
+3082,B,F,20,Angry,Half Left,1,0
+3287,B,F,26,Afraid,Half Left,0,0
+3346,B,F,27,Sad,Right,5,3
+312,A,F,10,Afraid,Left,0,2
+1959,A,M,22,Neutral,Straight,4,4
+801,A,F,24,Angry,Right,1,3
+958,A,F,28,Neutral,Half Right,4,1
+1587,A,M,11,Neutral,Straight,4,4
+3248,B,F,24,Surprised,Half Right,6,1
+1868,A,M,19,Surprised,Straight,6,4
+4126,B,M,15,Angry,Left,1,2
+1903,A,M,21,Afraid,Half Right,0,1
+3099,B,F,20,Neutral,Straight,4,4
+4428,B,M,24,Neutral,Right,4,3
+1776,A,M,17,Angry,Straight,1,4
+896,A,F,26,Surprised,Right,6,3
+2907,B,F,15,Afraid,Straight,0,4
+2270,A,M,31,Sad,Right,5,3
+4290,B,M,20,Disgusted,Straight,2,4
+2724,B,F,09,Sad,Half Right,5,1
+1396,A,M,06,Angry,Half Right,1,1
+2036,A,M,24,Surprised,Half Left,6,0
+4095,B,M,14,Angry,Straight,1,4
+2169,A,M,28,Sad,Straight,5,4
+4363,B,M,22,Neutral,Half Right,4,1
+4593,B,M,29,Disgusted,Half Right,2,1
+2933,B,F,15,Surprised,Left,6,2
+1389,A,M,06,Afraid,Right,0,3
+2819,B,F,12,Neutral,Left,4,2
+1433,A,M,07,Disgusted,Left,2,2
+2473,B,F,02,Neutral,Left,4,2
+489,A,F,15,Afraid,Straight,0,4
+38,A,F,02,Afraid,Straight,0,4
+3575,B,F,34,Disgusted,Left,2,2
+4427,B,M,24,Neutral,Left,4,2
+4153,B,M,16,Afraid,Right,0,3
+4740,B,M,33,Neutral,Half Right,4,1
+1191,A,F,35,Disgusted,Right,2,3
+309,A,F,09,Surprised,Half Left,6,0
+826,A,F,24,Surprised,Right,6,3
+224,A,F,07,Happy,Left,3,2
+2050,A,M,25,Disgusted,Half Left,2,0
+1609,A,M,12,Disgusted,Half Left,2,0
+4728,B,M,33,Disgusted,Left,2,2
+131,A,F,04,Sad,Half Left,5,0
+1960,A,M,22,Sad,Left,5,2
+4615,B,M,30,Afraid,Half Left,0,0
+1044,A,F,31,Afraid,Straight,0,4
+3282,B,F,25,Surprised,Half Left,6,0
+4396,B,M,23,Neutral,Half Left,4,0
+4098,B,M,14,Disgusted,Half Left,2,0
+385,A,F,12,Angry,Left,1,2
+754,A,F,22,Sad,Straight,5,4
+3627,B,F,35,Sad,Half Left,5,0
+3704,B,M,03,Afraid,Half Left,0,0
+2375,A,M,34,Sad,Half Left,5,0
+4414,B,M,24,Angry,Left,1,2
+2773,B,F,11,Angry,Half Left,1,0
+750,A,F,22,Sad,Left,5,2
+2840,B,F,13,Angry,Right,1,3
+650,A,F,19,Sad,Straight,5,4
+2170,A,M,28,Surprised,Left,6,2
+4630,B,M,30,Happy,Half Left,3,0
+4102,B,M,14,Happy,Right,3,3
+1021,A,F,30,Happy,Right,3,3
+3360,B,F,28,Angry,Left,1,2
+1414,A,M,06,Sad,Right,5,3
+2624,B,F,06,Surprised,Right,6,3
+3909,B,M,08,Surprised,Half Right,6,1
+2012,A,M,24,Angry,Half Left,1,0
+4791,B,M,35,Afraid,Straight,0,4
+4163,B,M,16,Disgusted,Right,2,3
+4486,B,M,26,Disgusted,Left,2,2
+985,A,F,29,Happy,Left,3,2
+3535,B,F,33,Angry,Left,1,2
+2328,A,M,33,Disgusted,Straight,2,4
+1726,A,M,15,Sad,Half Right,5,1
+3763,B,M,04,Sad,Half Left,5,0
+1148,A,F,34,Afraid,Half Right,0,1
+4334,B,M,21,Sad,Half Left,5,0
+4582,B,M,29,Afraid,Half Left,0,0
+1141,A,F,33,Surprised,Right,6,3
+2026,A,M,24,Neutral,Right,4,3
+2197,A,M,29,Neutral,Half Left,4,0
+4020,B,M,12,Afraid,Straight,0,4
+3451,B,F,30,Sad,Right,5,3
+856,A,F,25,Sad,Right,5,3
+3663,B,M,01,Surprised,Left,6,2
+1371,A,M,05,Happy,Half Right,3,1
+1120,A,F,33,Disgusted,Left,2,2
+3443,B,F,30,Happy,Half Right,3,1
+3947,B,M,10,Afraid,Right,0,3
+1611,A,M,12,Disgusted,Straight,2,4
+1951,A,M,22,Happy,Right,3,3
+4008,B,M,11,Sad,Half Left,5,0
+2863,B,F,13,Surprised,Left,6,2
+3461,B,F,31,Afraid,Right,0,3
+885,A,F,26,Neutral,Left,4,2
+2570,B,F,05,Disgusted,Half Left,2,0
+601,A,F,18,Disgusted,Half Left,2,0
+550,A,F,16,Surprised,Left,6,2
+2588,B,F,05,Surprised,Left,6,2
+4086,B,M,14,Afraid,Left,0,2
+3799,B,M,05,Sad,Half Right,5,1
+4161,B,M,16,Angry,Straight,1,4
+2722,B,F,09,Sad,Right,5,3
+975,A,F,29,Angry,Left,1,2
+4443,B,M,25,Afraid,Right,0,3
+3251,B,F,25,Afraid,Right,0,3
+2266,A,M,31,Neutral,Half Left,4,0
+3770,B,M,04,Surprised,Straight,6,4
+3457,B,F,30,Surprised,Half Left,6,0
+2873,B,F,14,Angry,Left,1,2
+56,A,F,02,Neutral,Half Left,4,0
+2732,B,F,10,Afraid,Right,0,3
+799,A,F,24,Afraid,Straight,0,4
+3052,B,F,19,Disgusted,Half Left,2,0
+1738,A,M,16,Angry,Left,1,2
+4712,B,M,32,Sad,Straight,5,4
+472,A,F,14,Neutral,Half Left,4,0
+2414,A,M,35,Surprised,Right,6,3
+1966,A,M,22,Surprised,Right,6,3
+392,A,F,12,Disgusted,Half Left,2,0
+360,A,F,11,Disgusted,Straight,2,4
+3539,B,F,33,Angry,Straight,1,4
+3778,B,M,05,Angry,Half Left,1,0
+2307,A,M,32,Sad,Half Right,5,1
+2878,B,F,14,Disgusted,Left,2,2
+2921,B,F,15,Happy,Half Right,3,1
+335,A,F,10,Neutral,Straight,4,4
+1516,A,M,09,Neutral,Half Right,4,1
+3383,B,F,28,Sad,Half Right,5,1
+1069,A,F,31,Sad,Straight,5,4
+1697,A,M,14,Surprised,Half Left,6,0
+4382,B,M,23,Angry,Half Right,1,1
+297,A,F,09,Neutral,Left,4,2
+130,A,F,04,Sad,Right,5,3
+4480,B,M,26,Afraid,Half Right,0,1
+933,A,F,27,Surprised,Half Right,6,1
+847,A,F,25,Happy,Half Left,3,0
+1428,A,M,07,Angry,Left,1,2
+3135,B,F,21,Sad,Left,5,2
+1345,A,M,04,Sad,Half Left,5,0
+4005,B,M,11,Neutral,Straight,4,4
+3979,B,M,10,Surprised,Half Right,6,1
+3697,B,M,02,Surprised,Left,6,2
+3503,B,F,32,Angry,Half Right,1,1
+4281,B,M,20,Afraid,Left,0,2
+7,A,F,01,Angry,Half Left,1,0
+506,A,F,15,Neutral,Right,4,3
+4738,B,M,33,Neutral,Left,4,2
+4190,B,M,17,Afraid,Half Right,0,1
+3901,B,M,08,Sad,Left,5,2
+1925,A,M,21,Sad,Left,5,2
+2474,B,F,02,Neutral,Right,4,3
+664,A,F,20,Angry,Half Right,1,1
+1943,A,M,22,Angry,Half Right,1,1
+3845,B,M,07,Afraid,Straight,0,4
+3034,B,F,18,Sad,Half Left,5,0
+2696,B,F,09,Afraid,Left,0,2
+2404,A,M,35,Neutral,Right,4,3
+4345,B,M,22,Afraid,Half Right,0,1
+172,A,F,05,Surprised,Half Right,6,1
+2225,A,M,30,Happy,Left,3,2
+1955,A,M,22,Neutral,Left,4,2
+375,A,F,11,Surprised,Left,6,2
+52,A,F,02,Happy,Half Right,3,1
+4375,B,M,23,Afraid,Right,0,3
+2906,B,F,15,Afraid,Half Right,0,1
+2276,A,M,31,Surprised,Half Left,6,0
+1240,A,M,01,Sad,Left,5,2
+3438,B,F,30,Disgusted,Half Right,2,1
+3923,B,M,09,Disgusted,Half Left,2,0
+3281,B,F,25,Surprised,Right,6,3
+899,A,F,26,Surprised,Straight,6,4
+3830,B,M,06,Neutral,Straight,4,4
+1088,A,F,32,Disgusted,Half Right,2,1
+4240,B,M,18,Happy,Straight,3,4
+2094,A,M,26,Neutral,Half Right,4,1
+1479,A,M,08,Neutral,Right,4,3
+3524,B,F,32,Sad,Straight,5,4
+4056,B,M,13,Angry,Left,1,2
+4770,B,M,34,Happy,Half Right,3,1
+3460,B,F,31,Afraid,Left,0,2
+969,A,F,28,Surprised,Straight,6,4
+4644,B,M,30,Surprised,Right,6,3
+4809,B,M,35,Neutral,Half Left,4,0
+311,A,F,09,Surprised,Straight,6,4
+2748,B,F,10,Happy,Half Left,3,0
+3620,B,F,35,Neutral,Left,4,2
+1913,A,M,21,Disgusted,Half Right,2,1
+61,A,F,02,Sad,Half Left,5,0
+98,A,F,03,Sad,Straight,5,4
+244,A,F,08,Afraid,Left,0,2
+3152,B,F,22,Angry,Half Left,1,0
+72,A,F,03,Afraid,Half Right,0,1
+3785,B,M,05,Disgusted,Straight,2,4
+2578,B,F,05,Neutral,Left,4,2
+36,A,F,02,Afraid,Half Left,0,0
+4352,B,M,22,Disgusted,Left,2,2
+653,A,F,19,Surprised,Half Left,6,0
+4114,B,M,14,Sad,Half Right,5,1
+3956,B,M,10,Disgusted,Left,2,2
+2352,A,M,34,Afraid,Half Right,0,1
+2122,A,M,27,Happy,Right,3,3
+2069,A,M,25,Surprised,Right,6,3
+3484,B,F,31,Neutral,Straight,4,4
+2055,A,M,25,Happy,Half Left,3,0
+4135,B,M,15,Happy,Left,3,2
+2558,B,F,05,Afraid,Left,0,2
+4007,B,M,11,Sad,Right,5,3
+1825,A,M,18,Sad,Left,5,2
+4549,B,M,28,Afraid,Straight,0,4
+2567,B,F,05,Angry,Straight,1,4
+2499,B,F,03,Disgusted,Right,2,3
+2775,B,F,11,Angry,Straight,1,4
+4286,B,M,20,Angry,Right,1,3
+3057,B,F,19,Happy,Half Left,3,0
+2180,A,M,29,Angry,Left,1,2
+4381,B,M,23,Angry,Half Left,1,0
+4655,B,M,31,Angry,Half Left,1,0
+486,A,F,15,Afraid,Right,0,3
+719,A,F,21,Sad,Straight,5,4
+57,A,F,02,Neutral,Half Right,4,1
+4000,B,M,11,Happy,Straight,3,4
+4079,B,M,13,Sad,Half Right,5,1
+1298,A,M,03,Disgusted,Straight,2,4
+3684,B,M,02,Happy,Half Left,3,0
+2265,A,M,31,Neutral,Right,4,3
+3615,B,F,35,Happy,Left,3,2
+1219,A,M,01,Afraid,Straight,0,4
+1652,A,M,13,Neutral,Half Left,4,0
+3655,B,M,01,Neutral,Half Left,4,0
+4649,B,M,31,Afraid,Right,0,3
+4162,B,M,16,Disgusted,Left,2,2
+2716,B,F,09,Neutral,Left,4,2
+4429,B,M,24,Neutral,Half Left,4,0
+3189,B,F,23,Angry,Straight,1,4
+1716,A,M,15,Happy,Half Right,3,1
+4219,B,M,17,Surprised,Half Right,6,1
+1893,A,M,20,Sad,Right,5,3
+446,A,F,13,Surprised,Right,6,3
+3964,B,M,10,Happy,Half Right,3,1
+990,A,F,29,Neutral,Left,4,2
+1953,A,M,22,Happy,Half Right,3,1
+2436,B,F,01,Happy,Half Right,3,1
+1616,A,M,12,Happy,Straight,3,4
+2488,B,F,03,Afraid,Left,0,2
+3996,B,M,11,Happy,Left,3,2
+1404,A,M,06,Happy,Right,3,3
+4116,B,M,14,Surprised,Left,6,2
+575,A,F,17,Neutral,Left,4,2
+2804,B,F,12,Angry,Left,1,2
+4374,B,M,23,Afraid,Left,0,2
+3926,B,M,09,Happy,Left,3,2
+3179,B,F,22,Surprised,Straight,6,4
+1932,A,M,21,Surprised,Half Left,6,0
+3650,B,M,01,Happy,Right,3,3
+2751,B,F,10,Neutral,Left,4,2
+2731,B,F,10,Afraid,Left,0,2
+4403,B,M,23,Sad,Straight,5,4
+910,A,F,27,Disgusted,Left,2,2
+2162,A,M,28,Neutral,Half Left,4,0
+1667,A,M,14,Afraid,Half Left,0,0
+3804,B,M,05,Surprised,Half Right,6,1
+3084,B,F,20,Angry,Straight,1,4
+2912,B,F,15,Angry,Straight,1,4
+3155,B,F,22,Disgusted,Left,2,2
+3632,B,F,35,Surprised,Half Left,6,0
+2129,A,M,27,Neutral,Half Right,4,1
+4300,B,M,20,Sad,Right,5,3
+1139,A,F,33,Sad,Straight,5,4
+1137,A,F,33,Sad,Half Left,5,0
+16,A,F,01,Happy,Right,3,3
+1672,A,M,14,Angry,Half Left,1,0
+4133,B,M,15,Disgusted,Half Right,2,1
+1282,A,M,02,Surprised,Half Right,6,1
+1407,A,M,06,Happy,Straight,3,4
+3966,B,M,10,Neutral,Left,4,2
+313,A,F,10,Afraid,Half Left,0,0
+3638,B,M,01,Afraid,Half Right,0,1
+2857,B,F,13,Neutral,Straight,4,4
+3104,B,F,20,Sad,Straight,5,4
+2556,B,F,04,Surprised,Half Right,6,1
+353,A,F,11,Angry,Half Left,1,0
+3886,B,M,08,Disgusted,Left,2,2
+4438,B,M,24,Surprised,Right,6,3
+211,A,F,07,Afraid,Half Left,0,0
+451,A,F,14,Afraid,Right,0,3
+2618,B,F,06,Sad,Left,5,2
+2812,B,F,12,Disgusted,Half Right,2,1
+3974,B,M,10,Sad,Half Right,5,1
+3841,B,M,07,Afraid,Left,0,2
+2215,A,M,30,Angry,Left,1,2
+2052,A,M,25,Disgusted,Straight,2,4
+4225,B,M,18,Afraid,Straight,0,4
+2574,B,F,05,Happy,Right,3,3
+1493,A,M,09,Afraid,Left,0,2
+2000,A,M,23,Surprised,Left,6,2
+3797,B,M,05,Sad,Right,5,3
+2320,A,M,33,Angry,Right,1,3
+4369,B,M,22,Surprised,Left,6,2
+2099,A,M,26,Sad,Half Right,5,1
+712,A,F,21,Neutral,Half Left,4,0
+1078,A,F,32,Afraid,Half Right,0,1
+60,A,F,02,Sad,Right,5,3
+4721,B,M,33,Afraid,Half Right,0,1
+28,A,F,01,Sad,Half Right,5,1
+3047,B,F,19,Angry,Half Left,1,0
+4757,B,M,34,Angry,Left,1,2
+500,A,F,15,Happy,Left,3,2
+1099,A,F,32,Neutral,Straight,4,4
+2985,B,F,17,Disgusted,Half Left,2,0
+2310,A,M,32,Surprised,Right,6,3
+603,A,F,18,Happy,Left,3,2
+3930,B,M,09,Happy,Straight,3,4
+4096,B,M,14,Disgusted,Left,2,2
+4719,B,M,33,Afraid,Right,0,3
+3760,B,M,04,Neutral,Straight,4,4
+1064,A,F,31,Neutral,Straight,4,4
+1950,A,M,22,Happy,Left,3,2
+1577,A,M,11,Disgusted,Straight,2,4
+1229,A,M,01,Disgusted,Straight,2,4
+1580,A,M,11,Happy,Half Left,3,0
+755,A,F,22,Surprised,Left,6,2
+1161,A,F,34,Happy,Right,3,3
+674,A,F,20,Happy,Straight,3,4
+1489,A,M,08,Surprised,Right,6,3
+4023,B,M,12,Angry,Half Left,1,0
+1455,A,M,07,Surprised,Half Left,6,0
+3606,B,F,35,Angry,Right,1,3
+4397,B,M,23,Neutral,Half Right,4,1
+2943,B,F,16,Angry,Left,1,2
+90,A,F,03,Neutral,Right,4,3
+2671,B,F,08,Angry,Half Right,1,1
+3305,B,F,26,Neutral,Left,4,2
+1662,A,M,13,Surprised,Half Left,6,0
+1176,A,F,34,Surprised,Right,6,3
+4635,B,M,30,Neutral,Half Left,4,0
+1444,A,M,07,Neutral,Right,4,3
+1448,A,M,07,Sad,Left,5,2
+2842,B,F,13,Angry,Half Right,1,1
+3349,B,F,27,Sad,Straight,5,4
+928,A,F,27,Sad,Half Right,5,1
+4091,B,M,14,Angry,Left,1,2
+3351,B,F,27,Surprised,Right,6,3
+4419,B,M,24,Disgusted,Right,2,3
+2638,B,F,07,Disgusted,Left,2,2
+4187,B,M,17,Afraid,Left,0,2
+2825,B,F,12,Sad,Right,5,3
+226,A,F,07,Happy,Half Left,3,0
+1934,A,M,21,Surprised,Straight,6,4
+2238,A,M,30,Sad,Half Right,5,1
+3195,B,F,23,Happy,Left,3,2
+391,A,F,12,Disgusted,Right,2,3
+3371,B,F,28,Happy,Right,3,3
+3242,B,F,24,Sad,Half Left,5,0
+4365,B,M,22,Sad,Left,5,2
+979,A,F,29,Angry,Straight,1,4
+1417,A,M,06,Sad,Straight,5,4
+1152,A,F,34,Angry,Half Left,1,0
+4323,B,M,21,Happy,Right,3,3
+125,A,F,04,Neutral,Right,4,3
+2765,B,F,10,Surprised,Straight,6,4
+258,A,F,08,Happy,Left,3,2
+1054,A,F,31,Disgusted,Straight,2,4
+2153,A,M,28,Disgusted,Half Left,2,0
+3290,B,F,26,Angry,Left,1,2
+104,A,F,04,Afraid,Left,0,2
+323,A,F,10,Disgusted,Half Left,2,0
+2193,A,M,29,Happy,Half Right,3,1
+3873,B,M,07,Surprised,Half Left,6,0
+1221,A,M,01,Angry,Right,1,3
+4151,B,M,15,Surprised,Half Right,6,1
+2309,A,M,32,Surprised,Left,6,2
+1095,A,F,32,Neutral,Left,4,2
+3482,B,F,31,Neutral,Half Left,4,0
+1178,A,F,34,Surprised,Half Right,6,1
+751,A,F,22,Sad,Right,5,3
+1865,A,M,19,Surprised,Right,6,3
+431,A,F,13,Happy,Right,3,3
+1359,A,M,05,Angry,Right,1,3
+3235,B,F,24,Neutral,Left,4,2
+4676,B,M,31,Sad,Half Right,5,1
+2971,B,F,16,Surprised,Half Right,6,1
+1245,A,M,01,Surprised,Left,6,2
+164,A,F,05,Sad,Left,5,2
+1602,A,M,12,Afraid,Straight,0,4
+1235,A,M,01,Neutral,Left,4,2
+2074,A,M,26,Afraid,Right,0,3
+209,A,F,07,Afraid,Left,0,2
+1108,A,F,32,Surprised,Half Right,6,1
+3036,B,F,18,Surprised,Left,6,2
+4350,B,M,22,Angry,Half Right,1,1
+4259,B,M,19,Angry,Left,1,2
+881,A,F,26,Happy,Right,3,3
+4638,B,M,30,Sad,Left,5,2
+3775,B,M,05,Afraid,Straight,0,4
+4209,B,M,17,Neutral,Half Left,4,0
+1439,A,M,07,Happy,Right,3,3
+3739,B,M,04,Afraid,Half Left,0,0
+3393,B,F,29,Afraid,Half Right,0,1
+477,A,F,14,Sad,Half Left,5,0
+4669,B,M,31,Neutral,Right,4,3
+2999,B,F,17,Sad,Right,5,3
+2232,A,M,30,Neutral,Half Left,4,0
+267,A,F,08,Neutral,Straight,4,4
+4324,B,M,21,Happy,Half Left,3,0
+3004,B,F,17,Surprised,Right,6,3
+304,A,F,09,Sad,Half Left,5,0
+293,A,F,09,Happy,Right,3,3
+3003,B,F,17,Surprised,Left,6,2
+3955,B,M,10,Angry,Straight,1,4
+3915,B,M,09,Afraid,Straight,0,4
+2089,A,M,26,Happy,Half Right,3,1
+3132,B,F,21,Neutral,Half Left,4,0
+4184,B,M,16,Surprised,Half Left,6,0
+2729,B,F,09,Surprised,Half Right,6,1
+1665,A,M,14,Afraid,Left,0,2
+2218,A,M,30,Angry,Half Right,1,1
+4535,B,M,27,Neutral,Straight,4,4
+4299,B,M,20,Neutral,Half Right,4,1
+4347,B,M,22,Angry,Left,1,2
+4647,B,M,30,Surprised,Straight,6,4
+2085,A,M,26,Disgusted,Half Right,2,1
+1380,A,M,05,Sad,Half Left,5,0
+3749,B,M,04,Disgusted,Half Right,2,1
+4765,B,M,34,Disgusted,Half Right,2,1
+1429,A,M,07,Angry,Right,1,3
+2639,B,F,07,Disgusted,Right,2,3
+2831,B,F,12,Surprised,Half Left,6,0
+347,A,F,11,Afraid,Right,0,3
+3133,B,F,21,Neutral,Half Right,4,1
+846,A,F,25,Happy,Right,3,3
+3843,B,M,07,Afraid,Half Left,0,0
+2252,A,M,31,Angry,Half Right,1,1
+250,A,F,08,Angry,Right,1,3
+651,A,F,19,Surprised,Left,6,2
+723,A,F,21,Surprised,Half Right,6,1
+4590,B,M,29,Disgusted,Left,2,2
+1892,A,M,20,Sad,Left,5,2
+1162,A,F,34,Happy,Half Left,3,0
+1544,A,M,10,Happy,Right,3,3
+1944,A,M,22,Angry,Straight,1,4
+785,A,F,23,Sad,Left,5,2
+2768,B,F,11,Afraid,Half Left,0,0
+1419,A,M,06,Surprised,Right,6,3
+2774,B,F,11,Angry,Half Right,1,1
+860,A,F,25,Surprised,Left,6,2
+2749,B,F,10,Happy,Half Right,3,1
+2894,B,F,14,Sad,Right,5,3
+1939,A,M,22,Afraid,Straight,0,4
+4583,B,M,29,Afraid,Half Right,0,1
+3401,B,F,29,Disgusted,Right,2,3
+3567,B,F,34,Afraid,Half Left,0,0
+417,A,F,13,Afraid,Half Left,0,0
+3676,B,M,02,Angry,Half Right,1,1
+3077,B,F,20,Afraid,Half Left,0,0
+2430,B,F,01,Disgusted,Half Left,2,0
+4358,B,M,22,Happy,Half Right,3,1
+2781,B,F,11,Happy,Left,3,2
+660,A,F,20,Afraid,Straight,0,4
+2326,A,M,33,Disgusted,Half Left,2,0
+4274,B,M,19,Sad,Right,5,3
+4197,B,M,17,Disgusted,Left,2,2
+2507,B,F,03,Happy,Straight,3,4
+3483,B,F,31,Neutral,Half Right,4,1
+2443,B,F,01,Sad,Left,5,2
+886,A,F,26,Neutral,Right,4,3
+1314,A,M,03,Surprised,Right,6,3
+2636,B,F,07,Angry,Half Right,1,1
+2776,B,F,11,Disgusted,Left,2,2
+2544,B,F,04,Neutral,Right,4,3
+3342,B,F,27,Neutral,Half Left,4,0
+3031,B,F,18,Neutral,Straight,4,4
+691,A,F,21,Afraid,Right,0,3
+240,A,F,07,Surprised,Right,6,3
+3471,B,F,31,Disgusted,Right,2,3
+2948,B,F,16,Disgusted,Left,2,2
+138,A,F,04,Surprised,Straight,6,4
+731,A,F,22,Angry,Right,1,3
+3933,B,M,09,Neutral,Half Left,4,0
+503,A,F,15,Happy,Half Right,3,1
+766,A,F,23,Angry,Right,1,3
+3063,B,F,19,Neutral,Half Right,4,1
+3106,B,F,20,Surprised,Right,6,3
+1831,A,M,18,Surprised,Right,6,3
+2434,B,F,01,Happy,Right,3,3
+4668,B,M,31,Neutral,Left,4,2
+556,A,F,17,Afraid,Right,0,3
+3716,B,M,03,Disgusted,Straight,2,4
+1038,A,F,30,Surprised,Half Right,6,1
+3706,B,M,03,Afraid,Straight,0,4
+2992,B,F,17,Happy,Straight,3,4
+469,A,F,14,Happy,Straight,3,4
+2852,B,F,13,Happy,Half Right,3,1
+124,A,F,04,Neutral,Left,4,2
+281,A,F,09,Afraid,Straight,0,4
+1302,A,M,03,Happy,Half Right,3,1
+744,A,F,22,Happy,Straight,3,4
+372,A,F,11,Sad,Half Left,5,0
+3418,B,F,29,Sad,Half Right,5,1
+3988,B,M,11,Angry,Half Left,1,0
+1374,A,M,05,Neutral,Right,4,3
+2156,A,M,28,Happy,Left,3,2
+2601,B,F,06,Angry,Half Right,1,1
+479,A,F,14,Sad,Straight,5,4
+705,A,F,21,Happy,Left,3,2
+3216,B,F,24,Afraid,Right,0,3
+490,A,F,15,Angry,Left,1,2
+91,A,F,03,Neutral,Half Left,4,0
+2714,B,F,09,Happy,Half Right,3,1
+2800,B,F,12,Afraid,Right,0,3
+4297,B,M,20,Neutral,Right,4,3
+1631,A,M,13,Afraid,Right,0,3
+3325,B,F,27,Angry,Left,1,2
+3671,B,M,02,Afraid,Half Right,0,1
+2108,A,M,27,Afraid,Half Left,0,0
+3332,B,F,27,Disgusted,Half Left,2,0
+794,A,F,23,Surprised,Straight,6,4
+4200,B,M,17,Disgusted,Half Right,2,1
+634,A,F,19,Disgusted,Half Right,2,1
+1729,A,M,15,Surprised,Right,6,3
+3972,B,M,10,Sad,Right,5,3
+2613,B,F,06,Neutral,Left,4,2
+1919,A,M,21,Happy,Straight,3,4
+3035,B,F,18,Sad,Half Right,5,1
+383,A,F,12,Afraid,Half Right,0,1
+3467,B,F,31,Angry,Half Left,1,0
+3894,B,M,08,Happy,Half Right,3,1
+4457,B,M,25,Happy,Left,3,2
+1486,A,M,08,Sad,Half Right,5,1
+2241,A,M,30,Surprised,Half Left,6,0
+632,A,F,19,Disgusted,Right,2,3
+2272,A,M,31,Sad,Half Right,5,1
+1415,A,M,06,Sad,Half Left,5,0
+4073,B,M,13,Neutral,Half Left,4,0
+128,A,F,04,Neutral,Straight,4,4
+2898,B,F,14,Surprised,Left,6,2
+525,A,F,16,Angry,Left,1,2
+1970,A,M,23,Afraid,Left,0,2
+2621,B,F,06,Sad,Half Right,5,1
+170,A,F,05,Surprised,Right,6,3
+936,A,F,28,Afraid,Right,0,3
+3545,B,F,33,Happy,Left,3,2
+606,A,F,18,Happy,Half Right,3,1
+2941,B,F,16,Afraid,Half Right,0,1
+4390,B,M,23,Happy,Right,3,3
+1072,A,F,31,Surprised,Half Left,6,0
+1848,A,M,19,Disgusted,Half Right,2,1
+3254,B,F,25,Afraid,Straight,0,4
+1237,A,M,01,Neutral,Half Left,4,0
+4069,B,M,13,Happy,Half Right,3,1
+925,A,F,27,Sad,Left,5,2
+4078,B,M,13,Sad,Half Left,5,0
+437,A,F,13,Neutral,Half Left,4,0
+4144,B,M,15,Sad,Right,5,3
+3348,B,F,27,Sad,Half Right,5,1
+2406,A,M,35,Neutral,Half Right,4,1
+3061,B,F,19,Neutral,Right,4,3
+3504,B,F,32,Angry,Straight,1,4
+290,A,F,09,Disgusted,Half Right,2,1
+4619,B,M,30,Angry,Right,1,3
+2647,B,F,07,Happy,Straight,3,4
+2233,A,M,30,Neutral,Half Right,4,1
+934,A,F,27,Surprised,Straight,6,4
+112,A,F,04,Angry,Half Right,1,1
+877,A,F,26,Disgusted,Half Left,2,0
+2147,A,M,28,Angry,Right,1,3
+2909,B,F,15,Angry,Right,1,3
+4301,B,M,20,Sad,Half Left,5,0
+894,A,F,26,Sad,Straight,5,4
+2213,A,M,30,Afraid,Half Right,0,1
+3070,B,F,19,Surprised,Left,6,2
+458,A,F,14,Angry,Half Right,1,1
+939,A,F,28,Afraid,Straight,0,4
+1753,A,M,16,Neutral,Left,4,2
+3089,B,F,20,Disgusted,Straight,2,4
+4653,B,M,31,Angry,Left,1,2
+2068,A,M,25,Surprised,Left,6,2
+2126,A,M,27,Neutral,Left,4,2
+49,A,F,02,Happy,Left,3,2
+4128,B,M,15,Angry,Half Left,1,0
+689,A,F,20,Surprised,Straight,6,4
+1714,A,M,15,Happy,Right,3,3
+797,A,F,24,Afraid,Half Left,0,0
+2896,B,F,14,Sad,Half Right,5,1
+869,A,F,26,Afraid,Straight,0,4
+2224,A,M,30,Disgusted,Straight,2,4
+4339,B,M,21,Surprised,Half Left,6,0
+201,A,F,06,Sad,Half Left,5,0
+4461,B,M,25,Happy,Straight,3,4
+2331,A,M,33,Happy,Half Left,3,0
+1741,A,M,16,Angry,Half Right,1,1
+1619,A,M,12,Neutral,Half Left,4,0
+1607,A,M,12,Disgusted,Left,2,2
+3580,B,F,34,Happy,Left,3,2
+1313,A,M,03,Surprised,Left,6,2
+4756,B,M,34,Afraid,Straight,0,4
+2968,B,F,16,Surprised,Left,6,2
+4761,B,M,34,Angry,Straight,1,4
+1348,A,M,04,Surprised,Left,6,2
+1895,A,M,20,Surprised,Left,6,2
+3952,B,M,10,Angry,Right,1,3
+3182,B,F,23,Afraid,Half Left,0,0
+2132,A,M,27,Sad,Right,5,3
+3279,B,F,25,Sad,Straight,5,4
+4608,B,M,29,Sad,Straight,5,4
+1651,A,M,13,Neutral,Right,4,3
+2351,A,M,34,Afraid,Half Left,0,0
+1007,A,F,30,Afraid,Half Left,0,0
+1622,A,M,12,Sad,Right,5,3
+2833,B,F,12,Surprised,Straight,6,4
+3982,B,M,11,Afraid,Right,0,3
+1976,A,M,23,Angry,Right,1,3
+3412,B,F,29,Neutral,Half Left,4,0
+2178,A,M,29,Afraid,Half Right,0,1
+2619,B,F,06,Sad,Right,5,3
+2157,A,M,28,Happy,Right,3,3
+1457,A,M,07,Surprised,Straight,6,4
+4169,B,M,16,Happy,Half Left,3,0
+4743,B,M,33,Sad,Right,5,3
+2285,A,M,32,Angry,Right,1,3
+194,A,F,06,Neutral,Left,4,2
+2403,A,M,35,Neutral,Left,4,2
+2417,A,M,35,Surprised,Straight,6,4
+1918,A,M,21,Happy,Half Right,3,1
+2704,B,F,09,Angry,Half Right,1,1
+2216,A,M,30,Angry,Right,1,3
+3046,B,F,19,Angry,Right,1,3
+795,A,F,24,Afraid,Left,0,2
+1965,A,M,22,Surprised,Left,6,2
+3748,B,M,04,Disgusted,Half Left,2,0
+410,A,F,12,Surprised,Left,6,2
+4272,B,M,19,Neutral,Right,4,3
+1844,A,M,19,Angry,Straight,1,4
+3400,B,F,29,Disgusted,Left,2,2
+1747,A,M,16,Disgusted,Straight,2,4
+1511,A,M,09,Happy,Half Right,3,1
+2868,B,F,14,Afraid,Left,0,2
+739,A,F,22,Disgusted,Straight,2,4
+4606,B,M,29,Sad,Half Left,5,0
+2125,A,M,27,Happy,Straight,3,4
+1263,A,M,02,Disgusted,Half Right,2,1
+3837,B,M,06,Surprised,Right,6,3
+4009,B,M,11,Sad,Half Right,5,1
+2411,A,M,35,Sad,Half Right,5,1
+4447,B,M,25,Angry,Left,1,2
+1481,A,M,08,Neutral,Half Right,4,1
+1342,A,M,04,Neutral,Straight,4,4
+1034,A,F,30,Sad,Straight,5,4
+623,A,F,19,Afraid,Half Left,0,0
+4066,B,M,13,Happy,Left,3,2
+2207,A,M,29,Surprised,Half Left,6,0
+2496,B,F,03,Angry,Half Right,1,1
+555,A,F,17,Afraid,Left,0,2
+3232,B,F,24,Happy,Half Left,3,0
+3658,B,M,01,Sad,Left,5,2
+2609,B,F,06,Happy,Right,3,3
+1208,A,F,35,Sad,Half Right,5,1
+2762,B,F,10,Surprised,Right,6,3
+1857,A,M,19,Neutral,Half Left,4,0
+941,A,F,28,Angry,Right,1,3
+1312,A,M,03,Sad,Half Right,5,1
+400,A,F,12,Neutral,Left,4,2
+2321,A,M,33,Angry,Half Left,1,0
+4520,B,M,27,Angry,Straight,1,4
+3817,B,M,06,Disgusted,Right,2,3
+4055,B,M,13,Afraid,Straight,0,4
+4623,B,M,30,Disgusted,Left,2,2
+1426,A,M,07,Afraid,Half Right,0,1
+1285,A,M,03,Afraid,Right,0,3
+3364,B,F,28,Angry,Straight,1,4
+4284,B,M,20,Afraid,Half Right,0,1
+1975,A,M,23,Angry,Left,1,2
+4581,B,M,29,Afraid,Right,0,3
+1256,A,M,02,Angry,Right,1,3
+2542,B,F,04,Happy,Straight,3,4
+4271,B,M,19,Neutral,Left,4,2
+2243,A,M,30,Surprised,Straight,6,4
+1851,A,M,19,Happy,Right,3,3
+1933,A,M,21,Surprised,Half Right,6,1
+2895,B,F,14,Sad,Half Left,5,0
+2420,B,F,01,Afraid,Half Left,0,0
+276,A,F,08,Surprised,Straight,6,4
+3889,B,M,08,Disgusted,Half Right,2,1
+2521,B,F,03,Surprised,Half Right,6,1
+1748,A,M,16,Happy,Left,3,2
+3263,B,F,25,Disgusted,Half Right,2,1
+4367,B,M,22,Sad,Half Left,5,0
+2836,B,F,13,Afraid,Half Left,0,0
+2056,A,M,25,Happy,Half Right,3,1
+2666,B,F,08,Afraid,Half Right,0,1
+988,A,F,29,Happy,Half Right,3,1
+3258,B,F,25,Angry,Half Right,1,1
+1591,A,M,11,Sad,Half Right,5,1
+3324,B,F,27,Afraid,Straight,0,4
+1899,A,M,20,Surprised,Straight,6,4
+4541,B,M,27,Surprised,Right,6,3
+1819,A,M,18,Happy,Straight,3,4
+1597,A,M,11,Surprised,Straight,6,4
+3692,B,M,02,Sad,Left,5,2
+852,A,F,25,Neutral,Half Left,4,0
+2138,A,M,27,Surprised,Half Left,6,0
+4648,B,M,31,Afraid,Left,0,2
+2346,A,M,33,Surprised,Half Left,6,0
+4586,B,M,29,Angry,Right,1,3
+4354,B,M,22,Disgusted,Straight,2,4
+117,A,F,04,Disgusted,Half Right,2,1
+4708,B,M,32,Sad,Left,5,2
+2454,B,F,02,Afraid,Right,0,3
+871,A,F,26,Angry,Right,1,3
+3538,B,F,33,Angry,Half Right,1,1
+2365,A,M,34,Happy,Half Left,3,0
+78,A,F,03,Angry,Straight,1,4
+1430,A,M,07,Angry,Half Left,1,0
+4554,B,M,28,Angry,Straight,1,4
+4521,B,M,27,Disgusted,Left,2,2
+3698,B,M,02,Surprised,Right,6,3
+3477,B,F,31,Happy,Half Left,3,0
+4198,B,M,17,Disgusted,Right,2,3
+1126,A,F,33,Happy,Right,3,3
+4421,B,M,24,Disgusted,Half Right,2,1
+3765,B,M,04,Sad,Straight,5,4
+2546,B,F,04,Neutral,Half Right,4,1
+4228,B,M,18,Angry,Half Left,1,0
+3857,B,M,07,Happy,Right,3,3
+1360,A,M,05,Angry,Half Left,1,0
+454,A,F,14,Afraid,Straight,0,4
+3700,B,M,02,Surprised,Half Right,6,1
+597,A,F,18,Angry,Half Right,1,1
+1425,A,M,07,Afraid,Half Left,0,0
+4605,B,M,29,Sad,Right,5,3
+1353,A,M,05,Afraid,Left,0,2
+4514,B,M,27,Afraid,Half Right,0,1
+738,A,F,22,Disgusted,Half Right,2,1
+1460,A,M,08,Afraid,Half Left,0,0
+3307,B,F,26,Neutral,Half Left,4,0
+4701,B,M,32,Happy,Half Right,3,1
+661,A,F,20,Angry,Left,1,2
+3157,B,F,22,Disgusted,Half Left,2,0
+3978,B,M,10,Surprised,Half Left,6,0
+142,A,F,05,Afraid,Half Right,0,1
+3498,B,F,32,Afraid,Half Right,0,1
+4094,B,M,14,Angry,Half Right,1,1
+2471,B,F,02,Happy,Half Right,3,1
+2826,B,F,12,Sad,Half Left,5,0
+4801,B,M,35,Disgusted,Straight,2,4
+1920,A,M,21,Neutral,Left,4,2
+10,A,F,01,Disgusted,Left,2,2
+997,A,F,29,Sad,Half Left,5,0
+2936,B,F,15,Surprised,Half Right,6,1
+2946,B,F,16,Angry,Half Right,1,1
+2975,B,F,17,Afraid,Half Left,0,0
+184,A,F,06,Disgusted,Left,2,2
+1410,A,M,06,Neutral,Half Left,4,0
+1822,A,M,18,Neutral,Half Left,4,0
+3608,B,F,35,Angry,Half Right,1,1
+2937,B,F,15,Surprised,Straight,6,4
+1319,A,M,04,Afraid,Right,0,3
+1505,A,M,09,Disgusted,Half Left,2,0
+4453,B,M,25,Disgusted,Right,2,3
+4488,B,M,26,Disgusted,Half Left,2,0
+3145,B,F,22,Afraid,Left,0,2
+1561,A,M,10,Surprised,Half Right,6,1
+2128,A,M,27,Neutral,Half Left,4,0
+2738,B,F,10,Angry,Half Left,1,0
+1280,A,M,02,Surprised,Right,6,3
+1146,A,F,34,Afraid,Right,0,3
+295,A,F,09,Happy,Half Right,3,1
+4304,B,M,20,Surprised,Right,6,3
+3512,B,F,32,Happy,Half Left,3,0
+3772,B,M,05,Afraid,Right,0,3
+21,A,F,01,Neutral,Right,4,3
+1035,A,F,30,Surprised,Left,6,2
+4804,B,M,35,Happy,Half Left,3,0
+445,A,F,13,Surprised,Left,6,2
+787,A,F,23,Sad,Half Left,5,0
+600,A,F,18,Disgusted,Right,2,3
+4571,B,M,28,Sad,Right,5,3
+2810,B,F,12,Disgusted,Right,2,3
+2747,B,F,10,Happy,Right,3,3
+4632,B,M,30,Happy,Straight,3,4
+1569,A,M,11,Angry,Right,1,3
+2904,B,F,15,Afraid,Right,0,3
+2244,A,M,31,Afraid,Left,0,2
+3644,B,M,01,Angry,Straight,1,4
+1463,A,M,08,Angry,Left,1,2
+3202,B,F,23,Neutral,Half Left,4,0
+3570,B,F,34,Angry,Left,1,2
+2425,B,F,01,Angry,Half Left,1,0
+4733,B,M,33,Happy,Left,3,2
+4404,B,M,23,Surprised,Left,6,2
+471,A,F,14,Neutral,Right,4,3
+259,A,F,08,Happy,Right,3,3
+3685,B,M,02,Happy,Half Right,3,1
+4412,B,M,24,Afraid,Half Right,0,1
+4749,B,M,33,Surprised,Half Left,6,0
+2087,A,M,26,Happy,Right,3,3
+1872,A,M,20,Afraid,Half Right,0,1
+50,A,F,02,Happy,Right,3,3
+565,A,F,17,Disgusted,Left,2,2
+4227,B,M,18,Angry,Right,1,3
+4017,B,M,12,Afraid,Right,0,3
+2795,B,F,11,Sad,Straight,5,4
+4575,B,M,28,Surprised,Left,6,2
+3473,B,F,31,Disgusted,Half Right,2,1
+4710,B,M,32,Sad,Half Left,5,0
+3226,B,F,24,Disgusted,Right,2,3
+4551,B,M,28,Angry,Right,1,3
+4025,B,M,12,Angry,Straight,1,4
+4349,B,M,22,Angry,Half Left,1,0
+2356,A,M,34,Angry,Half Left,1,0
+2564,B,F,05,Angry,Right,1,3
+835,A,F,25,Angry,Left,1,2
+4713,B,M,32,Surprised,Left,6,2
+2712,B,F,09,Happy,Right,3,3
+54,A,F,02,Neutral,Left,4,2
+978,A,F,29,Angry,Half Right,1,1
+2573,B,F,05,Happy,Left,3,2
+3815,B,M,06,Angry,Straight,1,4
+4636,B,M,30,Neutral,Half Right,4,1
+2734,B,F,10,Afraid,Half Right,0,1
+418,A,F,13,Afraid,Half Right,0,1
+2694,B,F,08,Surprised,Half Right,6,1
+3318,B,F,26,Surprised,Half Right,6,1
+2235,A,M,30,Sad,Left,5,2
+2467,B,F,02,Disgusted,Straight,2,4
+2142,A,M,28,Afraid,Right,0,3
+1164,A,F,34,Happy,Straight,3,4
+1930,A,M,21,Surprised,Left,6,2
+331,A,F,10,Neutral,Left,4,2
+443,A,F,13,Sad,Half Right,5,1
+2086,A,M,26,Happy,Left,3,2
+4670,B,M,31,Neutral,Half Left,4,0
+4503,B,M,26,Sad,Half Left,5,0
+415,A,F,13,Afraid,Left,0,2
+1993,A,M,23,Neutral,Half Right,4,1
+2388,A,M,35,Angry,Left,1,2
+1125,A,F,33,Happy,Left,3,2
+140,A,F,05,Afraid,Right,0,3
+4507,B,M,26,Surprised,Right,6,3
+3975,B,M,10,Sad,Straight,5,4
+3835,B,M,06,Sad,Straight,5,4
+931,A,F,27,Surprised,Right,6,3
+2363,A,M,34,Happy,Left,3,2
+487,A,F,15,Afraid,Half Left,0,0
+1778,A,M,17,Disgusted,Right,2,3
+3759,B,M,04,Neutral,Half Right,4,1
+2900,B,F,14,Surprised,Half Left,6,0
+1006,A,F,30,Afraid,Right,0,3
+1833,A,M,18,Surprised,Half Right,6,1
+2387,A,M,35,Afraid,Straight,0,4
+829,A,F,24,Surprised,Straight,6,4
+2527,B,F,04,Afraid,Straight,0,4
+55,A,F,02,Neutral,Right,4,3
+2410,A,M,35,Sad,Half Left,5,0
+1849,A,M,19,Disgusted,Straight,2,4
+1739,A,M,16,Angry,Right,1,3
+4409,B,M,24,Afraid,Left,0,2
+3617,B,F,35,Happy,Half Left,3,0
+2920,B,F,15,Happy,Half Left,3,0
+2562,B,F,05,Afraid,Straight,0,4
+2934,B,F,15,Surprised,Right,6,3
+1989,A,M,23,Happy,Straight,3,4
+4346,B,M,22,Afraid,Straight,0,4
+3564,B,F,33,Surprised,Straight,6,4
+68,A,F,02,Surprised,Straight,6,4
+1390,A,M,06,Afraid,Half Left,0,0
+1231,A,M,01,Happy,Right,3,3
+1424,A,M,07,Afraid,Right,0,3
+2893,B,F,14,Sad,Left,5,2
+1735,A,M,16,Afraid,Half Left,0,0
+406,A,F,12,Sad,Right,5,3
+4400,B,M,23,Sad,Right,5,3
+1387,A,M,05,Surprised,Straight,6,4
+1468,A,M,08,Disgusted,Left,2,2
+447,A,F,13,Surprised,Half Left,6,0
+687,A,F,20,Surprised,Half Left,6,0
+1310,A,M,03,Sad,Right,5,3
+3680,B,M,02,Disgusted,Half Right,2,1
+4473,B,M,25,Surprised,Right,6,3
+4744,B,M,33,Sad,Half Left,5,0
+4249,B,M,18,Sad,Straight,5,4
+2011,A,M,24,Angry,Right,1,3
+1599,A,M,12,Afraid,Right,0,3
+3710,B,M,03,Angry,Half Right,1,1
+2701,B,F,09,Angry,Left,1,2
+968,A,F,28,Surprised,Half Right,6,1
+806,A,F,24,Disgusted,Right,2,3
+1572,A,M,11,Angry,Straight,1,4
+2935,B,F,15,Surprised,Half Left,6,0
+3659,B,M,01,Sad,Right,5,3
+1794,A,M,17,Sad,Half Right,5,1
+1097,A,F,32,Neutral,Half Left,4,0
+1608,A,M,12,Disgusted,Right,2,3
+676,A,F,20,Neutral,Right,4,3
+3336,B,F,27,Happy,Right,3,3
+4130,B,M,15,Angry,Straight,1,4
+963,A,F,28,Sad,Half Right,5,1
+3583,B,F,34,Happy,Half Right,3,1
+880,A,F,26,Happy,Left,3,2
+733,A,F,22,Angry,Half Right,1,1
+3599,B,F,34,Surprised,Straight,6,4
+4173,B,M,16,Neutral,Right,4,3
+825,A,F,24,Surprised,Left,6,2
+23,A,F,01,Neutral,Half Right,4,1
+756,A,F,22,Surprised,Right,6,3
+2994,B,F,17,Neutral,Right,4,3
+1686,A,M,14,Neutral,Right,4,3
+1446,A,M,07,Neutral,Half Right,4,1
+4258,B,M,19,Afraid,Straight,0,4
+656,A,F,20,Afraid,Left,0,2
+1070,A,F,31,Surprised,Left,6,2
+3331,B,F,27,Disgusted,Right,2,3
+1398,A,M,06,Disgusted,Left,2,2
+1788,A,M,17,Neutral,Half Left,4,0
+402,A,F,12,Neutral,Half Left,4,0
+3660,B,M,01,Sad,Half Left,5,0
+127,A,F,04,Neutral,Half Right,4,1
+2617,B,F,06,Neutral,Straight,4,4
+1341,A,M,04,Neutral,Half Right,4,1
+554,A,F,16,Surprised,Straight,6,4
+2923,B,F,15,Neutral,Left,4,2
+2397,A,M,35,Disgusted,Straight,2,4
+1583,A,M,11,Neutral,Left,4,2
+1336,A,M,04,Happy,Half Right,3,1
+4451,B,M,25,Angry,Straight,1,4
+3335,B,F,27,Happy,Left,3,2
+891,A,F,26,Sad,Right,5,3
+976,A,F,29,Angry,Right,1,3
+100,A,F,03,Surprised,Right,6,3
+916,A,F,27,Happy,Right,3,3
+4494,B,M,26,Happy,Half Right,3,1
+1266,A,M,02,Happy,Half Left,3,0
+1490,A,M,08,Surprised,Half Left,6,0
+2064,A,M,25,Sad,Right,5,3
+2981,B,F,17,Angry,Half Right,1,1
+3730,B,M,03,Sad,Half Right,5,1
+670,A,F,20,Happy,Left,3,2
+160,A,F,05,Neutral,Right,4,3
+1761,A,M,16,Sad,Straight,5,4
+807,A,F,24,Disgusted,Half Left,2,0
+1603,A,M,12,Angry,Left,1,2
+2247,A,M,31,Afraid,Half Right,0,1
+1121,A,F,33,Disgusted,Right,2,3
+2205,A,M,29,Surprised,Left,6,2
+1529,A,M,10,Afraid,Right,0,3
+570,A,F,17,Happy,Left,3,2
+3303,B,F,26,Happy,Half Right,3,1
+3497,B,F,32,Afraid,Half Left,0,0
+2340,A,M,33,Sad,Right,5,3
+328,A,F,10,Happy,Half Left,3,0
+4131,B,M,15,Disgusted,Left,2,2
+711,A,F,21,Neutral,Right,4,3
+4205,B,M,17,Happy,Half Right,3,1
+235,A,F,07,Sad,Right,5,3
+2143,A,M,28,Afraid,Half Left,0,0
+812,A,F,24,Happy,Half Left,3,0
+3168,B,F,22,Neutral,Half Right,4,1
+3664,B,M,01,Surprised,Right,6,3
+2791,B,F,11,Sad,Left,5,2
+4585,B,M,29,Angry,Left,1,2
+4038,B,M,12,Neutral,Half Left,4,0
+3266,B,F,25,Happy,Right,3,3
+76,A,F,03,Angry,Half Left,1,0
+4239,B,M,18,Happy,Half Right,3,1
+4212,B,M,17,Sad,Right,5,3
+919,A,F,27,Happy,Straight,3,4
+2516,B,F,03,Sad,Half Right,5,1
+2677,B,F,08,Happy,Left,3,2
+1053,A,F,31,Disgusted,Half Right,2,1
+3056,B,F,19,Happy,Right,3,3
+649,A,F,19,Sad,Half Right,5,1
+518,A,F,15,Surprised,Half Right,6,1
+888,A,F,26,Neutral,Half Right,4,1
+4625,B,M,30,Disgusted,Half Left,2,0
+2427,B,F,01,Angry,Straight,1,4
+45,A,F,02,Disgusted,Right,2,3
+1908,A,M,21,Angry,Half Right,1,1
+1013,A,F,30,Angry,Half Right,1,1
+2209,A,M,29,Surprised,Straight,6,4
+4138,B,M,15,Happy,Half Right,3,1
+4180,B,M,16,Sad,Half Right,5,1
+949,A,F,28,Disgusted,Straight,2,4
+2905,B,F,15,Afraid,Half Left,0,0
+22,A,F,01,Neutral,Half Left,4,0
+412,A,F,12,Surprised,Half Left,6,0
+393,A,F,12,Disgusted,Half Right,2,1
+605,A,F,18,Happy,Half Left,3,0
+4351,B,M,22,Angry,Straight,1,4
+2506,B,F,03,Happy,Half Right,3,1
+1467,A,M,08,Angry,Straight,1,4
+578,A,F,17,Neutral,Half Right,4,1
+3252,B,F,25,Afraid,Half Left,0,0
+4493,B,M,26,Happy,Half Left,3,0
+1485,A,M,08,Sad,Half Left,5,0
+1896,A,M,20,Surprised,Right,6,3
+198,A,F,06,Neutral,Straight,4,4
+3292,B,F,26,Angry,Half Left,1,0
+1727,A,M,15,Sad,Straight,5,4
+2830,B,F,12,Surprised,Right,6,3
+513,A,F,15,Sad,Half Right,5,1
+2489,B,F,03,Afraid,Right,0,3
+3809,B,M,06,Afraid,Half Right,0,1
+2871,B,F,14,Afraid,Half Right,0,1
+2485,B,F,02,Surprised,Half Left,6,0
+3149,B,F,22,Afraid,Straight,0,4
+0,A,F,01,Afraid,Left,0,2
+3,A,F,01,Afraid,Half Right,0,1
+2264,A,M,31,Neutral,Left,4,2
+3045,B,F,19,Angry,Left,1,2
+4544,B,M,27,Surprised,Straight,6,4
+1189,A,F,35,Angry,Straight,1,4
+3783,B,M,05,Disgusted,Half Left,2,0
+2993,B,F,17,Neutral,Left,4,2
+1066,A,F,31,Sad,Right,5,3
+1200,A,F,35,Neutral,Left,4,2
+3871,B,M,07,Surprised,Left,6,2
+4631,B,M,30,Happy,Half Right,3,1
+867,A,F,26,Afraid,Half Left,0,0
+4654,B,M,31,Angry,Right,1,3
+4321,B,M,21,Disgusted,Straight,2,4
+2183,A,M,29,Angry,Half Right,1,1
+2692,B,F,08,Surprised,Right,6,3
+3717,B,M,03,Happy,Left,3,2
+134,A,F,04,Surprised,Left,6,2
+1085,A,F,32,Disgusted,Left,2,2
+1474,A,M,08,Happy,Right,3,3
+2631,B,F,07,Afraid,Half Right,0,1
+537,A,F,16,Happy,Half Left,3,0
+2648,B,F,07,Neutral,Left,4,2
+3435,B,F,30,Disgusted,Left,2,2
+3196,B,F,23,Happy,Right,3,3
+1370,A,M,05,Happy,Half Left,3,0
+4021,B,M,12,Angry,Left,1,2
+1751,A,M,16,Happy,Half Right,3,1
+717,A,F,21,Sad,Half Left,5,0
+1246,A,M,01,Surprised,Right,6,3
+1663,A,M,13,Surprised,Half Right,6,1
+735,A,F,22,Disgusted,Left,2,2
+2876,B,F,14,Angry,Half Right,1,1
+3611,B,F,35,Disgusted,Right,2,3
+2458,B,F,02,Angry,Left,1,2
+918,A,F,27,Happy,Half Right,3,1
+1813,A,M,18,Disgusted,Half Right,2,1
+3019,B,F,18,Disgusted,Right,2,3
+4139,B,M,15,Neutral,Left,4,2
+4245,B,M,18,Sad,Left,5,2
+800,A,F,24,Angry,Left,1,2
+2884,B,F,14,Happy,Right,3,3
+3973,B,M,10,Sad,Half Left,5,0
+4734,B,M,33,Happy,Right,3,3
+3714,B,M,03,Disgusted,Half Left,2,0
+1548,A,M,10,Neutral,Left,4,2
+3874,B,M,07,Surprised,Half Right,6,1
+272,A,F,08,Surprised,Left,6,2
+3618,B,F,35,Happy,Half Right,3,1
+1127,A,F,33,Happy,Half Left,3,0
+1566,A,M,11,Afraid,Half Right,0,1
+3050,B,F,19,Disgusted,Left,2,2
+3696,B,M,02,Sad,Straight,5,4
+643,A,F,19,Neutral,Half Left,4,0
+2501,B,F,03,Disgusted,Half Right,2,1
+2780,B,F,11,Disgusted,Straight,2,4
+1063,A,F,31,Neutral,Half Right,4,1
+4385,B,M,23,Disgusted,Right,2,3
+1289,A,M,03,Angry,Left,1,2
+388,A,F,12,Angry,Half Right,1,1
+1894,A,M,20,Sad,Half Left,5,0
+2867,B,F,13,Surprised,Straight,6,4
+4097,B,M,14,Disgusted,Right,2,3
+1174,A,F,34,Sad,Straight,5,4
+2915,B,F,15,Disgusted,Half Left,2,0
+561,A,F,17,Angry,Right,1,3
+3187,B,F,23,Angry,Half Left,1,0
+4714,B,M,32,Surprised,Right,6,3
+702,A,F,21,Disgusted,Half Left,2,0
+4244,B,M,18,Neutral,Half Right,4,1
+2720,B,F,09,Neutral,Straight,4,4
+3309,B,F,26,Neutral,Straight,4,4
+3788,B,M,05,Happy,Half Left,3,0
+987,A,F,29,Happy,Half Left,3,0
+1250,A,M,02,Afraid,Left,0,2
+776,A,F,23,Happy,Right,3,3
+637,A,F,19,Happy,Right,3,3
+4246,B,M,18,Sad,Right,5,3
+2003,A,M,23,Surprised,Half Right,6,1
+3865,B,M,07,Neutral,Straight,4,4
+763,A,F,23,Afraid,Half Right,0,1
+543,A,F,16,Neutral,Half Right,4,1
+2380,A,M,34,Surprised,Half Left,6,0
+1522,A,M,09,Sad,Straight,5,4
+3868,B,M,07,Sad,Half Left,5,0
+2413,A,M,35,Surprised,Left,6,2
+1022,A,F,30,Happy,Half Left,3,0
+3880,B,M,08,Afraid,Straight,0,4
+2311,A,M,32,Surprised,Half Left,6,0
+2088,A,M,26,Happy,Half Left,3,0
+823,A,F,24,Sad,Half Right,5,1
+3569,B,F,34,Afraid,Straight,0,4
+2133,A,M,27,Sad,Half Left,5,0
+2336,A,M,33,Neutral,Half Left,4,0
+3566,B,F,34,Afraid,Right,0,3
+986,A,F,29,Happy,Right,3,3
+4478,B,M,26,Afraid,Right,0,3
+2853,B,F,13,Happy,Straight,3,4
+1131,A,F,33,Neutral,Right,4,3
+884,A,F,26,Happy,Straight,3,4
+616,A,F,18,Sad,Half Right,5,1
+141,A,F,05,Afraid,Half Left,0,0
+308,A,F,09,Surprised,Right,6,3
+1159,A,F,34,Disgusted,Straight,2,4
+4658,B,M,31,Disgusted,Left,2,2
+1175,A,F,34,Surprised,Left,6,2
+2,A,F,01,Afraid,Half Left,0,0
+2006,A,M,24,Afraid,Right,0,3
+3555,B,F,33,Sad,Left,5,2
+2681,B,F,08,Happy,Straight,3,4
+4515,B,M,27,Afraid,Straight,0,4
+2874,B,F,14,Angry,Right,1,3
+3977,B,M,10,Surprised,Right,6,3
+3879,B,M,08,Afraid,Half Right,0,1
+3210,B,F,23,Surprised,Left,6,2
+4802,B,M,35,Happy,Left,3,2
+1225,A,M,01,Disgusted,Left,2,2
+1349,A,M,04,Surprised,Right,6,3
+463,A,F,14,Disgusted,Half Right,2,1
+1615,A,M,12,Happy,Half Right,3,1
+4415,B,M,24,Angry,Right,1,3
+1730,A,M,15,Surprised,Half Left,6,0
+981,A,F,29,Disgusted,Right,2,3
+3350,B,F,27,Surprised,Left,6,2
+1573,A,M,11,Disgusted,Left,2,2
+4147,B,M,15,Sad,Straight,5,4
+1418,A,M,06,Surprised,Left,6,2
+1928,A,M,21,Sad,Half Right,5,1
+678,A,F,20,Neutral,Half Right,4,1
+904,A,F,27,Afraid,Straight,0,4
+1514,A,M,09,Neutral,Right,4,3
+4437,B,M,24,Surprised,Left,6,2
+2662,B,F,07,Surprised,Straight,6,4
+4423,B,M,24,Happy,Right,3,3
+1049,A,F,31,Angry,Straight,1,4
+3677,B,M,02,Disgusted,Left,2,2
+4217,B,M,17,Surprised,Right,6,3
+4366,B,M,22,Sad,Right,5,3
+549,A,F,16,Sad,Straight,5,4
+191,A,F,06,Happy,Half Left,3,0
+4559,B,M,28,Disgusted,Straight,2,4
+1241,A,M,01,Sad,Right,5,3
+1076,A,F,32,Afraid,Right,0,3
+4292,B,M,20,Happy,Right,3,3
+1856,A,M,19,Neutral,Right,4,3
+1147,A,F,34,Afraid,Half Left,0,0
+450,A,F,14,Afraid,Left,0,2
+4001,B,M,11,Neutral,Left,4,2
+3203,B,F,23,Neutral,Half Right,4,1
+3078,B,F,20,Afraid,Half Right,0,1
+3852,B,M,07,Disgusted,Right,2,3
+3895,B,M,08,Happy,Straight,3,4
+4099,B,M,14,Disgusted,Half Right,2,1
+4223,B,M,18,Afraid,Half Left,0,0
+2950,B,F,16,Disgusted,Half Left,2,0
+4560,B,M,28,Happy,Left,3,2
+1055,A,F,31,Happy,Left,3,2
+4512,B,M,27,Afraid,Right,0,3
+540,A,F,16,Neutral,Left,4,2
+4386,B,M,23,Disgusted,Half Left,2,0
+2131,A,M,27,Sad,Left,5,2
+1733,A,M,16,Afraid,Left,0,2
+796,A,F,24,Afraid,Right,0,3
+3367,B,F,28,Disgusted,Half Left,2,0
+2274,A,M,31,Surprised,Left,6,2
+25,A,F,01,Sad,Left,5,2
+4695,B,M,32,Disgusted,Half Left,2,0
+3055,B,F,19,Happy,Left,3,2
+1553,A,M,10,Sad,Left,5,2
+2947,B,F,16,Angry,Straight,1,4
+2294,A,M,32,Happy,Left,3,2
+4145,B,M,15,Sad,Half Left,5,0
+4202,B,M,17,Happy,Left,3,2
+1201,A,F,35,Neutral,Right,4,3
+3024,B,F,18,Happy,Half Left,3,0
+2956,B,F,16,Happy,Half Right,3,1
+4059,B,M,13,Angry,Half Right,1,1
+3703,B,M,03,Afraid,Right,0,3
+4318,B,M,21,Disgusted,Right,2,3
+1190,A,F,35,Disgusted,Left,2,2
+3791,B,M,05,Neutral,Left,4,2
+4491,B,M,26,Happy,Left,3,2
+921,A,F,27,Neutral,Right,4,3
+3985,B,M,11,Afraid,Straight,0,4
+3715,B,M,03,Disgusted,Half Right,2,1
+3172,B,F,22,Sad,Half Left,5,0
+4771,B,M,34,Happy,Straight,3,4
+675,A,F,20,Neutral,Left,4,2
+669,A,F,20,Disgusted,Straight,2,4
+1551,A,M,10,Neutral,Half Right,4,1
+1704,A,M,15,Angry,Left,1,2
+621,A,F,19,Afraid,Left,0,2
+839,A,F,25,Angry,Straight,1,4
+4418,B,M,24,Angry,Straight,1,4
+4268,B,M,19,Happy,Half Left,3,0
+4164,B,M,16,Disgusted,Half Left,2,0
+3259,B,F,25,Angry,Straight,1,4
+1462,A,M,08,Afraid,Straight,0,4
+4471,B,M,25,Sad,Straight,5,4
+4070,B,M,13,Happy,Straight,3,4
+2192,A,M,29,Happy,Half Left,3,0
+4262,B,M,19,Disgusted,Right,2,3
+654,A,F,19,Surprised,Half Right,6,1
+821,A,F,24,Sad,Right,5,3
+161,A,F,05,Neutral,Half Left,4,0
+2529,B,F,04,Angry,Right,1,3
+792,A,F,23,Surprised,Half Left,6,0
+535,A,F,16,Happy,Left,3,2
+1588,A,M,11,Sad,Left,5,2
+4331,B,M,21,Neutral,Straight,4,4
+1217,A,M,01,Afraid,Half Left,0,0
+1648,A,M,13,Happy,Half Right,3,1
+2821,B,F,12,Neutral,Half Left,4,0
+2487,B,F,02,Surprised,Straight,6,4
+1850,A,M,19,Happy,Left,3,2
+811,A,F,24,Happy,Right,3,3
+3127,B,F,21,Happy,Half Left,3,0
+1530,A,M,10,Afraid,Half Left,0,0
+1634,A,M,13,Afraid,Straight,0,4
+4679,B,M,31,Surprised,Right,6,3
+2269,A,M,31,Sad,Left,5,2
+1567,A,M,11,Afraid,Straight,0,4
+2987,B,F,17,Disgusted,Straight,2,4
+4795,B,M,35,Angry,Half Right,1,1
+4103,B,M,14,Happy,Half Left,3,0
+4693,B,M,32,Disgusted,Left,2,2
+1482,A,M,08,Neutral,Straight,4,4
+2017,A,M,24,Disgusted,Half Left,2,0
+2641,B,F,07,Disgusted,Half Right,2,1
+2727,B,F,09,Surprised,Right,6,3
+3120,B,F,21,Disgusted,Left,2,2
+3951,B,M,10,Angry,Left,1,2
+798,A,F,24,Afraid,Half Right,0,1
+3340,B,F,27,Neutral,Left,4,2
+3720,B,M,03,Happy,Half Right,3,1
+1521,A,M,09,Sad,Half Right,5,1
+3543,B,F,33,Disgusted,Half Right,2,1
+3244,B,F,24,Sad,Straight,5,4
+2967,B,F,16,Sad,Straight,5,4
+579,A,F,17,Neutral,Straight,4,4
+3838,B,M,06,Surprised,Half Left,6,0
+1728,A,M,15,Surprised,Left,6,2
+4637,B,M,30,Neutral,Straight,4,4
+4048,B,M,12,Surprised,Half Left,6,0
+3613,B,F,35,Disgusted,Half Right,2,1
+828,A,F,24,Surprised,Half Right,6,1
+2879,B,F,14,Disgusted,Right,2,3
+245,A,F,08,Afraid,Right,0,3
+2323,A,M,33,Angry,Straight,1,4
+2851,B,F,13,Happy,Half Left,3,0
+1695,A,M,14,Surprised,Left,6,2
+3502,B,F,32,Angry,Half Left,1,0
+3262,B,F,25,Disgusted,Half Left,2,0
+3656,B,M,01,Neutral,Half Right,4,1
+2261,A,M,31,Happy,Half Left,3,0
+2632,B,F,07,Afraid,Straight,0,4
+3668,B,M,02,Afraid,Left,0,2
+2651,B,F,07,Neutral,Half Right,4,1
+4082,B,M,13,Surprised,Right,6,3
+1812,A,M,18,Disgusted,Half Left,2,0
+1973,A,M,23,Afraid,Half Right,0,1
+2117,A,M,27,Disgusted,Right,2,3
+3647,B,M,01,Disgusted,Half Left,2,0
+1774,A,M,17,Angry,Half Left,1,0
+2581,B,F,05,Neutral,Half Right,4,1
+3757,B,M,04,Neutral,Right,4,3
+1637,A,M,13,Angry,Half Left,1,0
+3423,B,F,29,Surprised,Half Right,6,1
+2409,A,M,35,Sad,Right,5,3
+1494,A,M,09,Afraid,Right,0,3
+973,A,F,29,Afraid,Half Right,0,1
+4782,B,M,34,Surprised,Left,6,2
+2908,B,F,15,Angry,Left,1,2
+4522,B,M,27,Disgusted,Right,2,3
+83,A,F,03,Disgusted,Straight,2,4
+2745,B,F,10,Disgusted,Straight,2,4
+4204,B,M,17,Happy,Half Left,3,0
+4450,B,M,25,Angry,Half Right,1,1
+2048,A,M,25,Angry,Straight,1,4
+3673,B,M,02,Angry,Left,1,2
+3523,B,F,32,Sad,Half Right,5,1
+4378,B,M,23,Afraid,Straight,0,4
+892,A,F,26,Sad,Half Left,5,0
+625,A,F,19,Afraid,Straight,0,4
+1585,A,M,11,Neutral,Half Left,4,0
+2777,B,F,11,Disgusted,Right,2,3
+4596,B,M,29,Happy,Right,3,3
+3234,B,F,24,Happy,Straight,3,4
+481,A,F,14,Surprised,Right,6,3
+85,A,F,03,Happy,Right,3,3
+1936,A,M,22,Afraid,Right,0,3
+853,A,F,25,Neutral,Half Right,4,1
+2268,A,M,31,Neutral,Straight,4,4
+2691,B,F,08,Surprised,Left,6,2
+780,A,F,23,Neutral,Left,4,2
+2405,A,M,35,Neutral,Half Left,4,0
+1575,A,M,11,Disgusted,Half Left,2,0
+462,A,F,14,Disgusted,Half Left,2,0
+416,A,F,13,Afraid,Right,0,3
+4413,B,M,24,Afraid,Straight,0,4
+3488,B,F,31,Sad,Half Right,5,1
+3639,B,M,01,Afraid,Straight,0,4
+1238,A,M,01,Neutral,Half Right,4,1
+2081,A,M,26,Angry,Straight,1,4
+1964,A,M,22,Sad,Straight,5,4
+3939,B,M,09,Sad,Half Right,5,1
+3612,B,F,35,Disgusted,Half Left,2,0
+387,A,F,12,Angry,Half Left,1,0
+1991,A,M,23,Neutral,Right,4,3
+2342,A,M,33,Sad,Half Right,5,1
+3890,B,M,08,Disgusted,Straight,2,4
+3670,B,M,02,Afraid,Half Left,0,0
+2563,B,F,05,Angry,Left,1,2
+608,A,F,18,Neutral,Left,4,2
+1701,A,M,15,Afraid,Right,0,3
+2415,A,M,35,Surprised,Half Left,6,0
+2368,A,M,34,Neutral,Left,4,2
+940,A,F,28,Angry,Left,1,2
+403,A,F,12,Neutral,Half Right,4,1
+4295,B,M,20,Happy,Straight,3,4
+4458,B,M,25,Happy,Right,3,3
+635,A,F,19,Disgusted,Straight,2,4
+2914,B,F,15,Disgusted,Right,2,3
+334,A,F,10,Neutral,Half Right,4,1
+1226,A,M,01,Disgusted,Right,2,3
+4469,B,M,25,Sad,Half Left,5,0
+92,A,F,03,Neutral,Half Right,4,1
+2524,B,F,04,Afraid,Right,0,3
+2750,B,F,10,Happy,Straight,3,4
+4672,B,M,31,Neutral,Straight,4,4
+2815,B,F,12,Happy,Right,3,3
+4683,B,M,32,Afraid,Left,0,2
+3417,B,F,29,Sad,Half Left,5,0
+700,A,F,21,Disgusted,Left,2,2
+995,A,F,29,Sad,Left,5,2
+3743,B,M,04,Angry,Half Left,1,0
+3485,B,F,31,Sad,Left,5,2
+4697,B,M,32,Disgusted,Straight,2,4
+113,A,F,04,Angry,Straight,1,4
+1140,A,F,33,Surprised,Left,6,2
+1206,A,F,35,Sad,Right,5,3
+3634,B,F,35,Surprised,Straight,6,4
+3388,B,F,28,Surprised,Half Right,6,1
+283,A,F,09,Angry,Right,1,3
+2809,B,F,12,Disgusted,Left,2,2
+3456,B,F,30,Surprised,Right,6,3
+3699,B,M,02,Surprised,Half Left,6,0
+3598,B,F,34,Surprised,Half Right,6,1
+4373,B,M,22,Surprised,Straight,6,4
+4786,B,M,34,Surprised,Straight,6,4
+1676,A,M,14,Disgusted,Right,2,3
+2240,A,M,30,Surprised,Right,6,3
+193,A,F,06,Happy,Straight,3,4
+805,A,F,24,Disgusted,Left,2,2
+2829,B,F,12,Surprised,Left,6,2
+4129,B,M,15,Angry,Half Right,1,1
+4068,B,M,13,Happy,Half Left,3,0
+2194,A,M,29,Happy,Straight,3,4
+4172,B,M,16,Neutral,Left,4,2
+1873,A,M,20,Afraid,Straight,0,4
+3316,B,F,26,Surprised,Right,6,3
+305,A,F,09,Sad,Half Right,5,1
+3971,B,M,10,Sad,Left,5,2
+1096,A,F,32,Neutral,Right,4,3
+3306,B,F,26,Neutral,Right,4,3
+2296,A,M,32,Happy,Half Left,3,0
+4519,B,M,27,Angry,Half Right,1,1
+260,A,F,08,Happy,Half Left,3,0
+4364,B,M,22,Neutral,Straight,4,4
+1157,A,F,34,Disgusted,Half Left,2,0
+1129,A,F,33,Happy,Straight,3,4
+1734,A,M,16,Afraid,Right,0,3
+3073,B,F,19,Surprised,Half Right,6,1
+4067,B,M,13,Happy,Right,3,3
+4140,B,M,15,Neutral,Right,4,3
+3604,B,F,35,Afraid,Straight,0,4
+509,A,F,15,Neutral,Straight,4,4
+357,A,F,11,Disgusted,Right,2,3
+2379,A,M,34,Surprised,Right,6,3
+1160,A,F,34,Happy,Left,3,2
+2560,B,F,05,Afraid,Half Left,0,0
+3596,B,F,34,Surprised,Right,6,3
+961,A,F,28,Sad,Right,5,3
+1687,A,M,14,Neutral,Half Left,4,0
+1158,A,F,34,Disgusted,Half Right,2,1
+3842,B,M,07,Afraid,Right,0,3
+4633,B,M,30,Neutral,Left,4,2
+364,A,F,11,Happy,Half Right,3,1
+1232,A,M,01,Happy,Half Left,3,0
+2394,A,M,35,Disgusted,Right,2,3
+1092,A,F,32,Happy,Half Left,3,0
+2237,A,M,30,Sad,Half Left,5,0
+3124,B,F,21,Disgusted,Straight,2,4
+4224,B,M,18,Afraid,Half Right,0,1
+4132,B,M,15,Disgusted,Half Left,2,0
+4705,B,M,32,Neutral,Half Left,4,0
+726,A,F,22,Afraid,Right,0,3
+4742,B,M,33,Sad,Left,5,2
+2706,B,F,09,Disgusted,Left,2,2
+1168,A,F,34,Neutral,Half Right,4,1
+3753,B,M,04,Happy,Half Left,3,0
+177,A,F,06,Afraid,Half Right,0,1
+906,A,F,27,Angry,Right,1,3
+1308,A,M,03,Neutral,Straight,4,4
+646,A,F,19,Sad,Left,5,2
+1879,A,M,20,Disgusted,Right,2,3
+2152,A,M,28,Disgusted,Right,2,3
+4275,B,M,19,Sad,Half Left,5,0
+4542,B,M,27,Surprised,Half Left,6,0
+3626,B,F,35,Sad,Right,5,3
+2032,A,M,24,Sad,Half Right,5,1
+3931,B,M,09,Neutral,Left,4,2
+4411,B,M,24,Afraid,Half Left,0,0
+3794,B,M,05,Neutral,Half Right,4,1
+2684,B,F,08,Neutral,Half Left,4,0
+4482,B,M,26,Angry,Right,1,3
+1876,A,M,20,Angry,Half Right,1,1
+79,A,F,03,Disgusted,Left,2,2
+236,A,F,07,Sad,Half Left,5,0
+269,A,F,08,Sad,Right,5,3
+793,A,F,23,Surprised,Half Right,6,1
+685,A,F,20,Surprised,Left,6,2
+4752,B,M,34,Afraid,Left,0,2
+2742,B,F,10,Disgusted,Right,2,3
+2635,B,F,07,Angry,Half Left,1,0
+4639,B,M,30,Sad,Right,5,3
+3379,B,F,28,Neutral,Straight,4,4
+2657,B,F,07,Sad,Straight,5,4
+989,A,F,29,Happy,Straight,3,4
+1811,A,M,18,Disgusted,Right,2,3
+1545,A,M,10,Happy,Half Left,3,0
+2330,A,M,33,Happy,Right,3,3
+2433,B,F,01,Happy,Left,3,2
+189,A,F,06,Happy,Left,3,2
+1627,A,M,12,Surprised,Half Left,6,0
+4510,B,M,26,Surprised,Straight,6,4
+2811,B,F,12,Disgusted,Half Left,2,0
+789,A,F,23,Sad,Straight,5,4
+3826,B,M,06,Neutral,Left,4,2
+1016,A,F,30,Disgusted,Right,2,3
+568,A,F,17,Disgusted,Half Right,2,1
+604,A,F,18,Happy,Right,3,3
+3490,B,F,31,Surprised,Left,6,2
+4758,B,M,34,Angry,Right,1,3
+1642,A,M,13,Disgusted,Half Left,2,0
+1725,A,M,15,Sad,Half Left,5,0
+521,A,F,16,Afraid,Right,0,3
+2725,B,F,09,Sad,Straight,5,4
+4773,B,M,34,Neutral,Right,4,3
+956,A,F,28,Neutral,Right,4,3
+1262,A,M,02,Disgusted,Half Left,2,0
+3722,B,M,03,Neutral,Left,4,2
+2549,B,F,04,Sad,Right,5,3
+59,A,F,02,Sad,Left,5,2
+3184,B,F,23,Afraid,Straight,0,4
+2316,A,M,33,Afraid,Half Left,0,0
+4355,B,M,22,Happy,Left,3,2
+1384,A,M,05,Surprised,Right,6,3
+2280,A,M,32,Afraid,Right,0,3
+3662,B,M,01,Sad,Straight,5,4
+96,A,F,03,Sad,Half Left,5,0
+3190,B,F,23,Disgusted,Left,2,2
+3898,B,M,08,Neutral,Half Left,4,0
+2442,B,F,01,Neutral,Straight,4,4
+831,A,F,25,Afraid,Right,0,3
+4003,B,M,11,Neutral,Half Left,4,0
+3821,B,M,06,Happy,Left,3,2
+3330,B,F,27,Disgusted,Left,2,2
+2599,B,F,06,Angry,Right,1,3
+841,A,F,25,Disgusted,Right,2,3
+1963,A,M,22,Sad,Half Right,5,1
+858,A,F,25,Sad,Half Right,5,1
+4675,B,M,31,Sad,Half Left,5,0
+1524,A,M,09,Surprised,Right,6,3
+3744,B,M,04,Angry,Half Right,1,1
+354,A,F,11,Angry,Half Right,1,1
+2782,B,F,11,Happy,Right,3,3
+2168,A,M,28,Sad,Half Right,5,1
+4111,B,M,14,Sad,Left,5,2
+1449,A,M,07,Sad,Right,5,3
+175,A,F,06,Afraid,Right,0,3
+1259,A,M,02,Angry,Straight,1,4
+1595,A,M,11,Surprised,Half Left,6,0
+3065,B,F,19,Sad,Left,5,2
+3866,B,M,07,Sad,Left,5,2
+4650,B,M,31,Afraid,Half Left,0,0
+143,A,F,05,Afraid,Straight,0,4
+4776,B,M,34,Neutral,Straight,4,4
+4641,B,M,30,Sad,Half Right,5,1
+1356,A,M,05,Afraid,Half Right,0,1
+3514,B,F,32,Happy,Straight,3,4
+478,A,F,14,Sad,Half Right,5,1
+4584,B,M,29,Afraid,Straight,0,4
+2674,B,F,08,Disgusted,Right,2,3
+4543,B,M,27,Surprised,Half Right,6,1
+1180,A,F,35,Afraid,Left,0,2
+4664,B,M,31,Happy,Right,3,3
+4028,B,M,12,Disgusted,Half Left,2,0
+4481,B,M,26,Angry,Left,1,2
+4401,B,M,23,Sad,Half Left,5,0
+1792,A,M,17,Sad,Right,5,3
+708,A,F,21,Happy,Half Right,3,1
+1766,A,M,16,Surprised,Straight,6,4
+3918,B,M,09,Angry,Half Left,1,0
+3441,B,F,30,Happy,Right,3,3
+2371,A,M,34,Neutral,Half Right,4,1
+2600,B,F,06,Angry,Half Left,1,0
+930,A,F,27,Surprised,Left,6,2
+3116,B,F,21,Angry,Right,1,3
+1909,A,M,21,Angry,Straight,1,4
+2580,B,F,05,Neutral,Half Left,4,0
+1083,A,F,32,Angry,Half Right,1,1
+3492,B,F,31,Surprised,Half Left,6,0
+1292,A,M,03,Angry,Half Right,1,1
+680,A,F,20,Sad,Left,5,2
+2818,B,F,12,Happy,Straight,3,4
+1456,A,M,07,Surprised,Half Right,6,1
+2367,A,M,34,Happy,Straight,3,4
+546,A,F,16,Sad,Right,5,3
+1999,A,M,23,Sad,Straight,5,4
+107,A,F,04,Afraid,Half Right,0,1
+3922,B,M,09,Disgusted,Right,2,3
+3878,B,M,08,Afraid,Half Left,0,0
+1276,A,M,02,Sad,Half Left,5,0
+2293,A,M,32,Disgusted,Straight,2,4
+4119,B,M,14,Surprised,Half Right,6,1
+1632,A,M,13,Afraid,Half Left,0,0
+3068,B,F,19,Sad,Half Right,5,1
+4508,B,M,26,Surprised,Half Left,6,0
+2419,B,F,01,Afraid,Right,0,3
+3834,B,M,06,Sad,Half Right,5,1
+3093,B,F,20,Happy,Half Right,3,1
+1836,A,M,19,Afraid,Right,0,3
+4208,B,M,17,Neutral,Right,4,3
+466,A,F,14,Happy,Right,3,3
+231,A,F,07,Neutral,Half Left,4,0
+4435,B,M,24,Sad,Half Right,5,1
+4370,B,M,22,Surprised,Right,6,3
+2066,A,M,25,Sad,Half Right,5,1
+1031,A,F,30,Sad,Right,5,3
+1757,A,M,16,Sad,Left,5,2
+4652,B,M,31,Afraid,Straight,0,4
+4050,B,M,12,Surprised,Straight,6,4
+2107,A,M,27,Afraid,Right,0,3
+544,A,F,16,Neutral,Straight,4,4
+3060,B,F,19,Neutral,Left,4,2
+2854,B,F,13,Neutral,Left,4,2
+470,A,F,14,Neutral,Left,4,2
+180,A,F,06,Angry,Right,1,3
+3074,B,F,19,Surprised,Straight,6,4
+4203,B,M,17,Happy,Right,3,3
+908,A,F,27,Angry,Half Right,1,1
+3709,B,M,03,Angry,Half Left,1,0
+4325,B,M,21,Happy,Half Right,3,1
+2119,A,M,27,Disgusted,Half Right,2,1
+3780,B,M,05,Angry,Straight,1,4
+4634,B,M,30,Neutral,Right,4,3
+1081,A,F,32,Angry,Right,1,3
+3275,B,F,25,Sad,Left,5,2
+3790,B,M,05,Happy,Straight,3,4
+2392,A,M,35,Angry,Straight,1,4
+3320,B,F,27,Afraid,Left,0,2
+539,A,F,16,Happy,Straight,3,4
+1636,A,M,13,Angry,Right,1,3
+3236,B,F,24,Neutral,Right,4,3
+872,A,F,26,Angry,Half Left,1,0
+4747,B,M,33,Surprised,Left,6,2
+507,A,F,15,Neutral,Half Left,4,0
+421,A,F,13,Angry,Right,1,3
+4278,B,M,19,Surprised,Half Left,6,0
+4576,B,M,28,Surprised,Right,6,3
+2959,B,F,16,Neutral,Right,4,3
+2460,B,F,02,Angry,Half Left,1,0
+4146,B,M,15,Sad,Half Right,5,1
+327,A,F,10,Happy,Right,3,3
+2988,B,F,17,Happy,Left,3,2
+2806,B,F,12,Angry,Half Left,1,0
+3071,B,F,19,Surprised,Right,6,3
+3665,B,M,01,Surprised,Half Left,6,0
+2740,B,F,10,Angry,Straight,1,4
+1593,A,M,11,Surprised,Left,6,2
+4191,B,M,17,Afraid,Straight,0,4
+655,A,F,19,Surprised,Straight,6,4
+4241,B,M,18,Neutral,Left,4,2
+2341,A,M,33,Sad,Half Left,5,0
+3403,B,F,29,Disgusted,Half Right,2,1
+2161,A,M,28,Neutral,Right,4,3
+3159,B,F,22,Disgusted,Straight,2,4
+3095,B,F,20,Neutral,Left,4,2
+1743,A,M,16,Disgusted,Left,2,2
+1845,A,M,19,Disgusted,Left,2,2
+4117,B,M,14,Surprised,Right,6,3
+2796,B,F,11,Surprised,Left,6,2
+764,A,F,23,Afraid,Straight,0,4
+4662,B,M,31,Disgusted,Straight,2,4
+2962,B,F,16,Neutral,Straight,4,4
+3096,B,F,20,Neutral,Right,4,3
+314,A,F,10,Afraid,Half Right,0,1
+1143,A,F,33,Surprised,Half Right,6,1
+4104,B,M,14,Happy,Half Right,3,1
+3506,B,F,32,Disgusted,Right,2,3
+924,A,F,27,Neutral,Straight,4,4
+748,A,F,22,Neutral,Half Right,4,1
+1684,A,M,14,Happy,Straight,3,4
+4532,B,M,27,Neutral,Right,4,3
+1803,A,M,18,Afraid,Half Left,0,0
+268,A,F,08,Sad,Left,5,2
+3928,B,M,09,Happy,Half Left,3,0
+2219,A,M,30,Angry,Straight,1,4
+3150,B,F,22,Angry,Left,1,2
+3405,B,F,29,Happy,Left,3,2
+4694,B,M,32,Disgusted,Right,2,3
+115,A,F,04,Disgusted,Right,2,3
+1646,A,M,13,Happy,Right,3,3
+2952,B,F,16,Disgusted,Straight,2,4
+4406,B,M,23,Surprised,Half Left,6,0
+3577,B,F,34,Disgusted,Half Left,2,0
+2480,B,F,02,Sad,Half Left,5,0
+3432,B,F,30,Angry,Half Left,1,0
+2649,B,F,07,Neutral,Right,4,3
+273,A,F,08,Surprised,Right,6,3
+2655,B,F,07,Sad,Half Left,5,0
+73,A,F,03,Afraid,Straight,0,4
+2673,B,F,08,Disgusted,Left,2,2
+716,A,F,21,Sad,Right,5,3
+1554,A,M,10,Sad,Right,5,3
+4810,B,M,35,Neutral,Half Right,4,1
+2212,A,M,30,Afraid,Half Left,0,0
+3672,B,M,02,Afraid,Straight,0,4
+2038,A,M,24,Surprised,Straight,6,4
+4041,B,M,12,Sad,Left,5,2
+1898,A,M,20,Surprised,Half Right,6,1
+4174,B,M,16,Neutral,Half Left,4,0
+571,A,F,17,Happy,Right,3,3
+4524,B,M,27,Disgusted,Half Right,2,1
+1783,A,M,17,Happy,Half Left,3,0
+3322,B,F,27,Afraid,Half Left,0,0
+2872,B,F,14,Afraid,Straight,0,4
+1645,A,M,13,Happy,Left,3,2
+3229,B,F,24,Disgusted,Straight,2,4
+4692,B,M,32,Angry,Straight,1,4
+824,A,F,24,Sad,Straight,5,4
+3027,B,F,18,Neutral,Left,4,2
+3010,B,F,18,Afraid,Half Left,0,0
+3875,B,M,07,Surprised,Straight,6,4
+3255,B,F,25,Angry,Left,1,2
+156,A,F,05,Happy,Half Left,3,0
+2755,B,F,10,Neutral,Straight,4,4
+4044,B,M,12,Sad,Half Right,5,1
+1393,A,M,06,Angry,Left,1,2
+3362,B,F,28,Angry,Half Left,1,0
+4186,B,M,16,Surprised,Straight,6,4
+1213,A,F,35,Surprised,Half Right,6,1
+4109,B,M,14,Neutral,Half Right,4,1
+190,A,F,06,Happy,Right,3,3
+630,A,F,19,Angry,Straight,1,4
+3691,B,M,02,Neutral,Straight,4,4
+289,A,F,09,Disgusted,Half Left,2,0
+533,A,F,16,Disgusted,Half Right,2,1
+4332,B,M,21,Sad,Left,5,2
+2759,B,F,10,Sad,Half Right,5,1
+3067,B,F,19,Sad,Half Left,5,0
+4356,B,M,22,Happy,Right,3,3
+2799,B,F,12,Afraid,Left,0,2
+2312,A,M,32,Surprised,Half Right,6,1
+4671,B,M,31,Neutral,Half Right,4,1
+2928,B,F,15,Sad,Left,5,2
+4505,B,M,26,Sad,Straight,5,4
+932,A,F,27,Surprised,Half Left,6,0
+363,A,F,11,Happy,Half Left,3,0
+341,A,F,10,Surprised,Left,6,2
+2977,B,F,17,Afraid,Straight,0,4
+1655,A,M,13,Sad,Left,5,2
+3938,B,M,09,Sad,Half Left,5,0
+4724,B,M,33,Angry,Right,1,3
+306,A,F,09,Sad,Straight,5,4
+753,A,F,22,Sad,Half Right,5,1
+2468,B,F,02,Happy,Left,3,2
+2551,B,F,04,Sad,Half Right,5,1
+4627,B,M,30,Disgusted,Straight,2,4
+657,A,F,20,Afraid,Right,0,3
+3222,B,F,24,Angry,Half Left,1,0
+1272,A,M,02,Neutral,Half Right,4,1
+1198,A,F,35,Happy,Half Right,3,1
+3548,B,F,33,Happy,Half Right,3,1
+813,A,F,24,Happy,Half Right,3,1
+17,A,F,01,Happy,Half Left,3,0
+2760,B,F,10,Sad,Straight,5,4
+2547,B,F,04,Neutral,Straight,4,4
+3833,B,M,06,Sad,Half Left,5,0
+684,A,F,20,Sad,Straight,5,4
+3532,B,F,33,Afraid,Half Left,0,0
+47,A,F,02,Disgusted,Half Right,2,1
+2536,B,F,04,Disgusted,Half Right,2,1
+998,A,F,29,Sad,Half Right,5,1
+2154,A,M,28,Disgusted,Half Right,2,1
+3818,B,M,06,Disgusted,Half Left,2,0
+3588,B,F,34,Neutral,Half Right,4,1
+2027,A,M,24,Neutral,Half Left,4,0
+722,A,F,21,Surprised,Half Left,6,0
+4589,B,M,29,Angry,Straight,1,4
+1441,A,M,07,Happy,Half Right,3,1
+1508,A,M,09,Happy,Left,3,2
+2887,B,F,14,Happy,Straight,3,4
+2565,B,F,05,Angry,Half Left,1,0
+3329,B,F,27,Angry,Straight,1,4
+1669,A,M,14,Afraid,Straight,0,4
+3736,B,M,03,Surprised,Straight,6,4
+119,A,F,04,Happy,Left,3,2
+4568,B,M,28,Neutral,Half Right,4,1
+3261,B,F,25,Disgusted,Right,2,3
+1364,A,M,05,Disgusted,Right,2,3
+2301,A,M,32,Neutral,Half Left,4,0
+3366,B,F,28,Disgusted,Right,2,3
+4122,B,M,15,Afraid,Right,0,3
+474,A,F,14,Neutral,Straight,4,4
+3489,B,F,31,Sad,Straight,5,4
+1212,A,F,35,Surprised,Half Left,6,0
+3217,B,F,24,Afraid,Half Left,0,0
+2820,B,F,12,Neutral,Right,4,3
+4014,B,M,11,Surprised,Half Right,6,1
+168,A,F,05,Sad,Straight,5,4
+210,A,F,07,Afraid,Right,0,3
+282,A,F,09,Angry,Left,1,2
+2435,B,F,01,Happy,Half Left,3,0
+599,A,F,18,Disgusted,Left,2,2
+4624,B,M,30,Disgusted,Right,2,3
+2141,A,M,28,Afraid,Left,0,2
+1144,A,F,33,Surprised,Straight,6,4
+4250,B,M,18,Surprised,Left,6,2
+159,A,F,05,Neutral,Left,4,2
+4588,B,M,29,Angry,Half Right,1,1
+2313,A,M,32,Surprised,Straight,6,4
+926,A,F,27,Sad,Right,5,3
+4226,B,M,18,Angry,Left,1,2
+1590,A,M,11,Sad,Half Left,5,0
+1582,A,M,11,Happy,Straight,3,4
+4684,B,M,32,Afraid,Right,0,3
+3998,B,M,11,Happy,Half Left,3,0
+2292,A,M,32,Disgusted,Half Right,2,1
+1350,A,M,04,Surprised,Half Left,6,0
+4579,B,M,28,Surprised,Straight,6,4
+3250,B,F,25,Afraid,Left,0,2
+1132,A,F,33,Neutral,Half Left,4,0
+622,A,F,19,Afraid,Right,0,3
+44,A,F,02,Disgusted,Left,2,2
+4233,B,M,18,Disgusted,Half Left,2,0
+3941,B,M,09,Surprised,Left,6,2
+465,A,F,14,Happy,Left,3,2
+3910,B,M,08,Surprised,Straight,6,4
+1068,A,F,31,Sad,Half Right,5,1
+2730,B,F,09,Surprised,Straight,6,4
+3148,B,F,22,Afraid,Half Right,0,1
+2483,B,F,02,Surprised,Left,6,2
+3125,B,F,21,Happy,Left,3,2
+408,A,F,12,Sad,Half Right,5,1
+428,A,F,13,Disgusted,Half Right,2,1
+4314,B,M,21,Angry,Right,1,3
+2101,A,M,26,Surprised,Left,6,2
+4547,B,M,28,Afraid,Half Left,0,0
+1814,A,M,18,Disgusted,Straight,2,4
+3563,B,F,33,Surprised,Half Right,6,1
+1534,A,M,10,Angry,Right,1,3
+1019,A,F,30,Disgusted,Straight,2,4
+2164,A,M,28,Neutral,Straight,4,4
+4610,B,M,29,Surprised,Right,6,3
+2211,A,M,30,Afraid,Right,0,3
+4058,B,M,13,Angry,Half Left,1,0
+2569,B,F,05,Disgusted,Right,2,3
+898,A,F,26,Surprised,Half Right,6,1
+2919,B,F,15,Happy,Right,3,3
+2511,B,F,03,Neutral,Half Right,4,1
+857,A,F,25,Sad,Half Left,5,0
+4015,B,M,11,Surprised,Straight,6,4
+4013,B,M,11,Surprised,Half Left,6,0
+2733,B,F,10,Afraid,Half Left,0,0
+1051,A,F,31,Disgusted,Right,2,3
+2047,A,M,25,Angry,Half Right,1,1
+1498,A,M,09,Angry,Left,1,2
+3384,B,F,28,Sad,Straight,5,4
+3434,B,F,30,Angry,Straight,1,4
+2158,A,M,28,Happy,Half Left,3,0
+2814,B,F,12,Happy,Left,3,2
+420,A,F,13,Angry,Left,1,2
+2593,B,F,06,Afraid,Left,0,2
+247,A,F,08,Afraid,Half Right,0,1
+4039,B,M,12,Neutral,Half Right,4,1
+1937,A,M,22,Afraid,Half Left,0,0
+2446,B,F,01,Sad,Half Right,5,1
+1251,A,M,02,Afraid,Right,0,3
+1046,A,F,31,Angry,Right,1,3
+1405,A,M,06,Happy,Half Left,3,0
+3856,B,M,07,Happy,Left,3,2
+2841,B,F,13,Angry,Half Left,1,0
+3981,B,M,11,Afraid,Left,0,2
+2040,A,M,25,Afraid,Right,0,3
+3616,B,F,35,Happy,Right,3,3
+4663,B,M,31,Happy,Left,3,2
+2112,A,M,27,Angry,Right,1,3
+2973,B,F,17,Afraid,Left,0,2
+732,A,F,22,Angry,Half Left,1,0
+3140,B,F,21,Surprised,Left,6,2
+814,A,F,24,Happy,Straight,3,4
+2494,B,F,03,Angry,Right,1,3
+3769,B,M,04,Surprised,Half Right,6,1
+4110,B,M,14,Neutral,Straight,4,4
+317,A,F,10,Angry,Right,1,3
+4062,B,M,13,Disgusted,Right,2,3
+4511,B,M,27,Afraid,Left,0,2
+4416,B,M,24,Angry,Half Left,1,0
+1737,A,M,16,Afraid,Straight,0,4
+1058,A,F,31,Happy,Half Right,3,1
+2364,A,M,34,Happy,Right,3,3
+2965,B,F,16,Sad,Half Left,5,0
+3151,B,F,22,Angry,Right,1,3
+3008,B,F,18,Afraid,Left,0,2
+223,A,F,07,Disgusted,Straight,2,4
+1502,A,M,09,Angry,Straight,1,4
+4019,B,M,12,Afraid,Half Right,0,1
+433,A,F,13,Happy,Half Right,3,1
+154,A,F,05,Happy,Left,3,2
+3902,B,M,08,Sad,Right,5,3
+2277,A,M,31,Surprised,Half Right,6,1
+2369,A,M,34,Neutral,Right,4,3
+3387,B,F,28,Surprised,Half Left,6,0
+1023,A,F,30,Happy,Half Right,3,1
+3891,B,M,08,Happy,Left,3,2
+2634,B,F,07,Angry,Right,1,3
+4106,B,M,14,Neutral,Left,4,2
+145,A,F,05,Angry,Right,1,3
+4247,B,M,18,Sad,Half Left,5,0
+569,A,F,17,Disgusted,Straight,2,4
+3623,B,F,35,Neutral,Half Right,4,1
+4054,B,M,13,Afraid,Half Right,0,1
+2491,B,F,03,Afraid,Half Right,0,1
+3674,B,M,02,Angry,Right,1,3
+4273,B,M,19,Neutral,Half Right,4,1
+1855,A,M,19,Neutral,Left,4,2
+2705,B,F,09,Angry,Straight,1,4
+337,A,F,10,Sad,Right,5,3
+1234,A,M,01,Happy,Straight,3,4
+1224,A,M,01,Angry,Straight,1,4
+2223,A,M,30,Disgusted,Half Right,2,1
+673,A,F,20,Happy,Half Right,3,1
+2176,A,M,29,Afraid,Right,0,3
+3800,B,M,05,Sad,Straight,5,4
+770,A,F,23,Disgusted,Left,2,2
+2348,A,M,33,Surprised,Straight,6,4
+830,A,F,25,Afraid,Left,0,2
+696,A,F,21,Angry,Right,1,3
+2481,B,F,02,Sad,Half Right,5,1
+566,A,F,17,Disgusted,Right,2,3
+2370,A,M,34,Neutral,Half Left,4,0
+4767,B,M,34,Happy,Left,3,2
+174,A,F,06,Afraid,Left,0,2
+3786,B,M,05,Happy,Left,3,2
+2505,B,F,03,Happy,Half Left,3,0
+3130,B,F,21,Neutral,Left,4,2
+4659,B,M,31,Disgusted,Right,2,3
+1476,A,M,08,Happy,Half Right,3,1
+4348,B,M,22,Angry,Right,1,3
+2329,A,M,33,Happy,Left,3,2
+74,A,F,03,Angry,Left,1,2
+2472,B,F,02,Happy,Straight,3,4
+1525,A,M,09,Surprised,Half Left,6,0
+586,A,F,17,Surprised,Right,6,3
+1461,A,M,08,Afraid,Half Right,0,1
+2400,A,M,35,Happy,Half Left,3,0
+2110,A,M,27,Afraid,Straight,0,4
+3678,B,M,02,Disgusted,Right,2,3
+2432,B,F,01,Disgusted,Straight,2,4
+2676,B,F,08,Disgusted,Half Right,2,1
+3197,B,F,23,Happy,Half Left,3,0
+672,A,F,20,Happy,Half Left,3,0
+186,A,F,06,Disgusted,Half Left,2,0
+1270,A,M,02,Neutral,Right,4,3
+1506,A,M,09,Disgusted,Half Right,2,1
+316,A,F,10,Angry,Left,1,2
+767,A,F,23,Angry,Half Left,1,0
+4745,B,M,33,Sad,Half Right,5,1
+1691,A,M,14,Sad,Right,5,3
+890,A,F,26,Sad,Left,5,2
+4340,B,M,21,Surprised,Half Right,6,1
+838,A,F,25,Angry,Half Right,1,1
+424,A,F,13,Angry,Straight,1,4
+3552,B,F,33,Neutral,Half Left,4,0
+4310,B,M,21,Afraid,Half Left,0,0
+2073,A,M,26,Afraid,Left,0,2
+3585,B,F,34,Neutral,Left,4,2
+2741,B,F,10,Disgusted,Left,2,2
+4760,B,M,34,Angry,Half Right,1,1
+99,A,F,03,Surprised,Left,6,2
+310,A,F,09,Surprised,Half Right,6,1
+1635,A,M,13,Angry,Left,1,2
+4485,B,M,26,Angry,Straight,1,4
+3054,B,F,19,Disgusted,Straight,2,4
+1287,A,M,03,Afraid,Half Right,0,1
+199,A,F,06,Sad,Left,5,2
+952,A,F,28,Happy,Half Left,3,0
+3948,B,M,10,Afraid,Half Left,0,0
+4600,B,M,29,Neutral,Left,4,2
+1715,A,M,15,Happy,Half Left,3,0
+2650,B,F,07,Neutral,Half Left,4,0
+4230,B,M,18,Angry,Straight,1,4
+1406,A,M,06,Happy,Half Right,3,1
+3083,B,F,20,Angry,Half Right,1,1
+3107,B,F,20,Surprised,Half Left,6,0
+2864,B,F,13,Surprised,Right,6,3
+2008,A,M,24,Afraid,Half Right,0,1
+4089,B,M,14,Afraid,Half Right,0,1
+1501,A,M,09,Angry,Half Right,1,1
+2202,A,M,29,Sad,Half Left,5,0
+2253,A,M,31,Angry,Straight,1,4
+3754,B,M,04,Happy,Half Right,3,1
+2951,B,F,16,Disgusted,Half Right,2,1
+139,A,F,05,Afraid,Left,0,2
+4484,B,M,26,Angry,Half Right,1,1
+3937,B,M,09,Sad,Right,5,3
+1871,A,M,20,Afraid,Half Left,0,0
+3666,B,M,01,Surprised,Half Right,6,1
+4463,B,M,25,Neutral,Right,4,3
+4072,B,M,13,Neutral,Right,4,3
+2140,A,M,27,Surprised,Straight,6,4
+734,A,F,22,Angry,Straight,1,4
+4707,B,M,32,Neutral,Straight,4,4
+2679,B,F,08,Happy,Half Left,3,0
+2927,B,F,15,Neutral,Straight,4,4
+3373,B,F,28,Happy,Half Right,3,1
+4196,B,M,17,Angry,Straight,1,4
+2890,B,F,14,Neutral,Half Left,4,0
+3976,B,M,10,Surprised,Left,6,2
+2200,A,M,29,Sad,Left,5,2
+2711,B,F,09,Happy,Left,3,2
+1540,A,M,10,Disgusted,Half Left,2,0
+2402,A,M,35,Happy,Straight,3,4
+1001,A,F,29,Surprised,Right,6,3
+4194,B,M,17,Angry,Half Left,1,0
+3621,B,F,35,Neutral,Right,4,3
+4280,B,M,19,Surprised,Straight,6,4
+4080,B,M,13,Sad,Straight,5,4
+4167,B,M,16,Happy,Left,3,2
+3501,B,F,32,Angry,Right,1,3
+671,A,F,20,Happy,Right,3,3
+3041,B,F,19,Afraid,Right,0,3
+3474,B,F,31,Disgusted,Straight,2,4
+2983,B,F,17,Disgusted,Left,2,2
+4168,B,M,16,Happy,Right,3,3
+3209,B,F,23,Sad,Straight,5,4
+1002,A,F,29,Surprised,Half Left,6,0
+1713,A,M,15,Happy,Left,3,2
+3177,B,F,22,Surprised,Half Left,6,0
+1606,A,M,12,Angry,Half Right,1,1
+4075,B,M,13,Neutral,Straight,4,4
+2888,B,F,14,Neutral,Left,4,2
+809,A,F,24,Disgusted,Straight,2,4
+411,A,F,12,Surprised,Right,6,3
+2986,B,F,17,Disgusted,Half Right,2,1
+1834,A,M,18,Surprised,Straight,6,4
+373,A,F,11,Sad,Half Right,5,1
+4276,B,M,19,Sad,Straight,5,4
+2612,B,F,06,Happy,Straight,3,4
+2683,B,F,08,Neutral,Right,4,3
+2848,B,F,13,Disgusted,Straight,2,4
+483,A,F,14,Surprised,Half Right,6,1
+3987,B,M,11,Angry,Right,1,3
+1693,A,M,14,Sad,Half Right,5,1
+3652,B,M,01,Happy,Half Right,3,1
+2279,A,M,32,Afraid,Left,0,2
+3733,B,M,03,Surprised,Right,6,3
+4189,B,M,17,Afraid,Half Left,0,0
+1689,A,M,14,Neutral,Straight,4,4
+3807,B,M,06,Afraid,Right,0,3
+522,A,F,16,Afraid,Half Left,0,0
+2061,A,M,25,Neutral,Half Right,4,1
+2196,A,M,29,Neutral,Right,4,3
+345,A,F,10,Surprised,Straight,6,4
+460,A,F,14,Disgusted,Left,2,2
+1480,A,M,08,Neutral,Half Left,4,0
+4277,B,M,19,Surprised,Left,6,2
+2428,B,F,01,Disgusted,Left,2,2
+2137,A,M,27,Surprised,Right,6,3
+1771,A,M,17,Afraid,Straight,0,4
+2041,A,M,25,Afraid,Half Left,0,0
+3218,B,F,24,Afraid,Half Right,0,1
+2682,B,F,08,Neutral,Left,4,2
+3719,B,M,03,Happy,Half Left,3,0
+492,A,F,15,Angry,Half Left,1,0
+3424,B,F,29,Surprised,Straight,6,4
+1787,A,M,17,Neutral,Right,4,3
+4592,B,M,29,Disgusted,Half Left,2,0
+3721,B,M,03,Happy,Straight,3,4
+1649,A,M,13,Happy,Straight,3,4
+135,A,F,04,Surprised,Right,6,3
+4002,B,M,11,Neutral,Right,4,3
+4764,B,M,34,Disgusted,Half Left,2,0
+1045,A,F,31,Angry,Left,1,2
+2758,B,F,10,Sad,Half Left,5,0
+816,A,F,24,Neutral,Right,4,3
+122,A,F,04,Happy,Half Right,3,1
+2737,B,F,10,Angry,Right,1,3
+2913,B,F,15,Disgusted,Left,2,2
+2982,B,F,17,Angry,Straight,1,4
+3044,B,F,19,Afraid,Straight,0,4
+212,A,F,07,Afraid,Half Right,0,1
+1862,A,M,19,Sad,Half Right,5,1
+4620,B,M,30,Angry,Half Left,1,0
+2077,A,M,26,Angry,Left,1,2
+1546,A,M,10,Happy,Half Right,3,1
+4436,B,M,24,Sad,Straight,5,4
+3270,B,F,25,Neutral,Left,4,2
+2753,B,F,10,Neutral,Half Left,4,0
+1496,A,M,09,Afraid,Half Right,0,1
+216,A,F,07,Angry,Half Left,1,0
+4696,B,M,32,Disgusted,Half Right,2,1
+964,A,F,28,Sad,Straight,5,4
+4820,B,M,35,Surprised,Half Right,6,1
+1032,A,F,30,Sad,Half Left,5,0
+2640,B,F,07,Disgusted,Half Left,2,0
+4084,B,M,13,Surprised,Half Right,6,1
+624,A,F,19,Afraid,Half Right,0,1
+1613,A,M,12,Happy,Right,3,3
+2470,B,F,02,Happy,Half Left,3,0
+1062,A,F,31,Neutral,Half Left,4,0
+3986,B,M,11,Angry,Left,1,2
+865,A,F,26,Afraid,Left,0,2
+2023,A,M,24,Happy,Half Right,3,1
+3143,B,F,21,Surprised,Half Right,6,1
+3747,B,M,04,Disgusted,Right,2,3
+4703,B,M,32,Neutral,Left,4,2
+1269,A,M,02,Neutral,Left,4,2
+2797,B,F,11,Surprised,Right,6,3
+1775,A,M,17,Angry,Half Right,1,1
+2201,A,M,29,Sad,Right,5,3
+1111,A,F,33,Afraid,Right,0,3
+3675,B,M,02,Angry,Half Left,1,0
+4047,B,M,12,Surprised,Right,6,3
+3406,B,F,29,Happy,Right,3,3
+1708,A,M,15,Disgusted,Left,2,2
+591,A,F,18,Afraid,Right,0,3
+2767,B,F,11,Afraid,Right,0,3
+2165,A,M,28,Sad,Left,5,2
+514,A,F,15,Sad,Straight,5,4
+4037,B,M,12,Neutral,Right,4,3
+3888,B,M,08,Disgusted,Half Left,2,0
+552,A,F,16,Surprised,Half Left,6,0
+2116,A,M,27,Disgusted,Left,2,2
+1169,A,F,34,Neutral,Straight,4,4
+2875,B,F,14,Angry,Half Left,1,0
+3832,B,M,06,Sad,Right,5,3
+694,A,F,21,Afraid,Straight,0,4
+3954,B,M,10,Angry,Half Right,1,1
+627,A,F,19,Angry,Right,1,3
+4790,B,M,35,Afraid,Half Right,0,1
+1768,A,M,17,Afraid,Right,0,3
+2031,A,M,24,Sad,Half Left,5,0
+2302,A,M,32,Neutral,Half Right,4,1
+1475,A,M,08,Happy,Half Left,3,0
+2118,A,M,27,Disgusted,Half Left,2,0
+1106,A,F,32,Surprised,Right,6,3
+4252,B,M,18,Surprised,Half Left,6,0
+3774,B,M,05,Afraid,Half Right,0,1
+2231,A,M,30,Neutral,Right,4,3
+261,A,F,08,Happy,Half Right,3,1
+2698,B,F,09,Afraid,Half Left,0,0
+3005,B,F,17,Surprised,Half Left,6,0
+48,A,F,02,Disgusted,Straight,2,4
+4320,B,M,21,Disgusted,Half Right,2,1
+3180,B,F,23,Afraid,Left,0,2
+923,A,F,27,Neutral,Half Right,4,1
+4182,B,M,16,Surprised,Left,6,2
+2687,B,F,08,Sad,Left,5,2
+3215,B,F,24,Afraid,Left,0,2
+2090,A,M,26,Happy,Straight,3,4
+488,A,F,15,Afraid,Half Right,0,1
+783,A,F,23,Neutral,Half Right,4,1
+2210,A,M,30,Afraid,Left,0,2
+1552,A,M,10,Neutral,Straight,4,4
+2080,A,M,26,Angry,Half Right,1,1
+2623,B,F,06,Surprised,Left,6,2
+3495,B,F,32,Afraid,Left,0,2
+3076,B,F,20,Afraid,Right,0,3
+2675,B,F,08,Disgusted,Half Left,2,0
+1870,A,M,20,Afraid,Right,0,3
+1875,A,M,20,Angry,Half Left,1,0
+229,A,F,07,Neutral,Left,4,2
+1681,A,M,14,Happy,Right,3,3
+1244,A,M,01,Sad,Straight,5,4
+1818,A,M,18,Happy,Half Right,3,1
+693,A,F,21,Afraid,Half Right,0,1
+3635,B,M,01,Afraid,Left,0,2
+721,A,F,21,Surprised,Right,6,3
+2861,B,F,13,Sad,Half Right,5,1
+582,A,F,17,Sad,Half Left,5,0
+4232,B,M,18,Disgusted,Right,2,3
+2525,B,F,04,Afraid,Half Left,0,0
+4723,B,M,33,Angry,Left,1,2
+97,A,F,03,Sad,Half Right,5,1
+4422,B,M,24,Happy,Left,3,2
+2783,B,F,11,Happy,Half Left,3,0
+1182,A,F,35,Afraid,Half Left,0,0
+2541,B,F,04,Happy,Half Right,3,1
+4076,B,M,13,Sad,Left,5,2
+3750,B,M,04,Disgusted,Straight,2,4
+4291,B,M,20,Happy,Left,3,2
+93,A,F,03,Neutral,Straight,4,4
+1571,A,M,11,Angry,Half Right,1,1
+3518,B,F,32,Neutral,Half Right,4,1
+775,A,F,23,Happy,Left,3,2
+3578,B,F,34,Disgusted,Half Right,2,1
+2284,A,M,32,Angry,Left,1,2
+1562,A,M,10,Surprised,Straight,6,4
+3914,B,M,09,Afraid,Half Right,0,1
+2325,A,M,33,Disgusted,Right,2,3
+1698,A,M,14,Surprised,Half Right,6,1
+1947,A,M,22,Disgusted,Half Left,2,0
+31,A,F,01,Surprised,Half Left,6,0
+2622,B,F,06,Sad,Straight,5,4
+1243,A,M,01,Sad,Half Right,5,1
+1288,A,M,03,Afraid,Straight,0,4
+3001,B,F,17,Sad,Half Right,5,1
+1347,A,M,04,Sad,Straight,5,4
+3431,B,F,30,Angry,Right,1,3
+2362,A,M,34,Disgusted,Straight,2,4
+2924,B,F,15,Neutral,Right,4,3
+3711,B,M,03,Angry,Straight,1,4
+208,A,F,06,Surprised,Straight,6,4
+2373,A,M,34,Sad,Left,5,2
+1533,A,M,10,Angry,Left,1,2
+178,A,F,06,Afraid,Straight,0,4
+3337,B,F,27,Happy,Half Left,3,0
+866,A,F,26,Afraid,Right,0,3
+12,A,F,01,Disgusted,Half Left,2,0
+1296,A,M,03,Disgusted,Half Left,2,0
+3253,B,F,25,Afraid,Half Right,0,1
+1339,A,M,04,Neutral,Right,4,3
+3138,B,F,21,Sad,Half Right,5,1
+3571,B,F,34,Angry,Right,1,3
+4656,B,M,31,Angry,Half Right,1,1
+718,A,F,21,Sad,Half Right,5,1
+2477,B,F,02,Neutral,Straight,4,4
+1626,A,M,12,Surprised,Right,6,3
+4425,B,M,24,Happy,Half Right,3,1
+3904,B,M,08,Sad,Half Right,5,1
+1677,A,M,14,Disgusted,Half Left,2,0
+3118,B,F,21,Angry,Half Right,1,1
+4591,B,M,29,Disgusted,Right,2,3
+1012,A,F,30,Angry,Half Left,1,0
+4621,B,M,30,Angry,Half Right,1,1
+4498,B,M,26,Neutral,Half Left,4,0
+1777,A,M,17,Disgusted,Left,2,2
+3080,B,F,20,Angry,Left,1,2
+531,A,F,16,Disgusted,Right,2,3
+438,A,F,13,Neutral,Half Right,4,1
+3811,B,M,06,Angry,Left,1,2
+2743,B,F,10,Disgusted,Half Left,2,0
+3257,B,F,25,Angry,Half Left,1,0
+2283,A,M,32,Afraid,Straight,0,4
+2009,A,M,24,Afraid,Straight,0,4
+2717,B,F,09,Neutral,Right,4,3
+1861,A,M,19,Sad,Half Left,5,0
+2543,B,F,04,Neutral,Left,4,2
+710,A,F,21,Neutral,Left,4,2
+167,A,F,05,Sad,Half Right,5,1
+4287,B,M,20,Disgusted,Right,2,3
+2384,A,M,35,Afraid,Right,0,3
+2079,A,M,26,Angry,Half Left,1,0
+214,A,F,07,Angry,Left,1,2
+4338,B,M,21,Surprised,Right,6,3
+165,A,F,05,Sad,Right,5,3
+3102,B,F,20,Sad,Half Left,5,0
+3764,B,M,04,Sad,Half Right,5,1
+2844,B,F,13,Disgusted,Left,2,2
+1680,A,M,14,Happy,Left,3,2
+3426,B,F,30,Afraid,Right,0,3
+2281,A,M,32,Afraid,Half Left,0,0
+3296,B,F,26,Disgusted,Right,2,3
+3544,B,F,33,Disgusted,Straight,2,4
+1612,A,M,12,Happy,Left,3,2
+1453,A,M,07,Surprised,Left,6,2
+3960,B,M,10,Disgusted,Straight,2,4
+1987,A,M,23,Happy,Half Left,3,0
+1977,A,M,23,Angry,Half Left,1,0
+2016,A,M,24,Disgusted,Right,2,3
+4660,B,M,31,Disgusted,Half Left,2,0
+2515,B,F,03,Sad,Half Left,5,0
+3959,B,M,10,Disgusted,Half Right,2,1
+3392,B,F,29,Afraid,Half Left,0,0
+4359,B,M,22,Happy,Straight,3,4
+3872,B,M,07,Surprised,Right,6,3
+2534,B,F,04,Disgusted,Right,2,3
+2092,A,M,26,Neutral,Right,4,3
+3633,B,F,35,Surprised,Half Right,6,1
+1202,A,F,35,Neutral,Half Left,4,0
+2608,B,F,06,Happy,Left,3,2
+2097,A,M,26,Sad,Right,5,3
+504,A,F,15,Happy,Straight,3,4
+4718,B,M,33,Afraid,Left,0,2
+3887,B,M,08,Disgusted,Right,2,3
+3556,B,F,33,Sad,Right,5,3
+1630,A,M,13,Afraid,Left,0,2
+4012,B,M,11,Surprised,Right,6,3
+149,A,F,05,Disgusted,Left,2,2
+3015,B,F,18,Angry,Half Left,1,0
+1887,A,M,20,Happy,Straight,3,4
+663,A,F,20,Angry,Half Left,1,0
+1830,A,M,18,Surprised,Left,6,2
+3806,B,M,06,Afraid,Left,0,2
+917,A,F,27,Happy,Half Left,3,0
+195,A,F,06,Neutral,Right,4,3
+2520,B,F,03,Surprised,Half Left,6,0
+3510,B,F,32,Happy,Left,3,2
+4221,B,M,18,Afraid,Left,0,2
+3515,B,F,32,Neutral,Left,4,2
+2287,A,M,32,Angry,Half Right,1,1
+1400,A,M,06,Disgusted,Half Left,2,0
+1685,A,M,14,Neutral,Left,4,2
+3428,B,F,30,Afraid,Half Right,0,1
+587,A,F,17,Surprised,Half Left,6,0
+2332,A,M,33,Happy,Half Right,3,1
+1696,A,M,14,Surprised,Right,6,3
+1938,A,M,22,Afraid,Half Right,0,1
+2457,B,F,02,Afraid,Straight,0,4
+3870,B,M,07,Sad,Straight,5,4
+609,A,F,18,Neutral,Right,4,3
+982,A,F,29,Disgusted,Half Left,2,0
+659,A,F,20,Afraid,Half Right,0,1
+3521,B,F,32,Sad,Right,5,3
+4460,B,M,25,Happy,Half Right,3,1
+2744,B,F,10,Disgusted,Half Right,2,1
+4479,B,M,26,Afraid,Half Left,0,0
+3361,B,F,28,Angry,Right,1,3
+1363,A,M,05,Disgusted,Left,2,2
+3173,B,F,22,Sad,Half Right,5,1
+1042,A,F,31,Afraid,Half Left,0,0
+1796,A,M,17,Surprised,Left,6,2
+2700,B,F,09,Afraid,Straight,0,4
+3449,B,F,30,Neutral,Straight,4,4
+2728,B,F,09,Surprised,Half Left,6,0
+1491,A,M,08,Surprised,Half Right,6,1
+3881,B,M,08,Angry,Left,1,2
+3944,B,M,09,Surprised,Half Right,6,1
+4308,B,M,21,Afraid,Left,0,2
+1128,A,F,33,Happy,Half Right,3,1
+3295,B,F,26,Disgusted,Left,2,2
+1971,A,M,23,Afraid,Right,0,3
+4666,B,M,31,Happy,Half Right,3,1
+3204,B,F,23,Neutral,Straight,4,4
+1961,A,M,22,Sad,Right,5,3
+218,A,F,07,Angry,Straight,1,4
+109,A,F,04,Angry,Left,1,2
+620,A,F,18,Surprised,Half Right,6,1
+2025,A,M,24,Neutral,Left,4,2
+3847,B,M,07,Angry,Right,1,3
+2054,A,M,25,Happy,Right,3,3
+2190,A,M,29,Happy,Left,3,2
+840,A,F,25,Disgusted,Left,2,2
+1707,A,M,15,Angry,Half Right,1,1
+3782,B,M,05,Disgusted,Right,2,3
+315,A,F,10,Afraid,Straight,0,4
+4199,B,M,17,Disgusted,Half Left,2,0
+307,A,F,09,Surprised,Left,6,2
+1005,A,F,30,Afraid,Left,0,2
+4531,B,M,27,Neutral,Left,4,2
+1563,A,M,11,Afraid,Left,0,2
+3517,B,F,32,Neutral,Half Left,4,0
+3370,B,F,28,Happy,Left,3,2
+24,A,F,01,Neutral,Straight,4,4
+2643,B,F,07,Happy,Left,3,2
+1172,A,F,34,Sad,Half Left,5,0
+1705,A,M,15,Angry,Right,1,3
+2816,B,F,12,Happy,Half Left,3,0
+2856,B,F,13,Neutral,Half Left,4,0
+2120,A,M,27,Disgusted,Straight,2,4
+1010,A,F,30,Angry,Left,1,2
+3558,B,F,33,Sad,Half Right,5,1
+4383,B,M,23,Angry,Straight,1,4
+1249,A,M,01,Surprised,Straight,6,4
+2145,A,M,28,Afraid,Straight,0,4
+1988,A,M,23,Happy,Half Right,3,1
+2426,B,F,01,Angry,Half Right,1,1
+2778,B,F,11,Disgusted,Half Left,2,0
+2665,B,F,08,Afraid,Half Left,0,0
+3919,B,M,09,Angry,Half Right,1,1
+1318,A,M,04,Afraid,Left,0,2
+1454,A,M,07,Surprised,Right,6,3
+1050,A,F,31,Disgusted,Left,2,2
+106,A,F,04,Afraid,Half Left,0,0
+2916,B,F,15,Disgusted,Half Right,2,1
+2620,B,F,06,Sad,Half Left,5,0
+292,A,F,09,Happy,Left,3,2
+4141,B,M,15,Neutral,Half Left,4,0
+4468,B,M,25,Sad,Right,5,3
+2018,A,M,24,Disgusted,Half Right,2,1
+3466,B,F,31,Angry,Right,1,3
+991,A,F,29,Neutral,Right,4,3
+876,A,F,26,Disgusted,Right,2,3
+1218,A,M,01,Afraid,Half Right,0,1
+2306,A,M,32,Sad,Half Left,5,0
+658,A,F,20,Afraid,Half Left,0,0
+3175,B,F,22,Surprised,Left,6,2
+512,A,F,15,Sad,Half Left,5,0
+4617,B,M,30,Afraid,Straight,0,4
+401,A,F,12,Neutral,Right,4,3
+3278,B,F,25,Sad,Half Right,5,1
+3924,B,M,09,Disgusted,Half Right,2,1
+4735,B,M,33,Happy,Half Left,3,0
+3935,B,M,09,Neutral,Straight,4,4
+4811,B,M,35,Neutral,Straight,4,4
+2424,B,F,01,Angry,Right,1,3
+818,A,F,24,Neutral,Half Right,4,1
+4739,B,M,33,Neutral,Half Left,4,0
+2597,B,F,06,Afraid,Straight,0,4
+2045,A,M,25,Angry,Right,1,3
+2955,B,F,16,Happy,Half Left,3,0
+4120,B,M,14,Surprised,Straight,6,4
+527,A,F,16,Angry,Half Left,1,0
+4064,B,M,13,Disgusted,Half Right,2,1
+3853,B,M,07,Disgusted,Half Left,2,0
+157,A,F,05,Happy,Half Right,3,1
+3854,B,M,07,Disgusted,Half Right,2,1
+4720,B,M,33,Afraid,Half Left,0,0
+2633,B,F,07,Angry,Left,1,2
+4562,B,M,28,Happy,Half Left,3,0
+2550,B,F,04,Sad,Half Left,5,0
+1423,A,M,07,Afraid,Left,0,2
+4688,B,M,32,Angry,Left,1,2
+4165,B,M,16,Disgusted,Half Right,2,1
+1283,A,M,02,Surprised,Straight,6,4
+1003,A,F,29,Surprised,Half Right,6,1
+3286,B,F,26,Afraid,Right,0,3
+1542,A,M,10,Disgusted,Straight,2,4
+3193,B,F,23,Disgusted,Half Right,2,1
+2860,B,F,13,Sad,Half Left,5,0
+1625,A,M,12,Surprised,Left,6,2
+299,A,F,09,Neutral,Half Left,4,0
+1718,A,M,15,Neutral,Left,4,2
+1874,A,M,20,Angry,Left,1,2
+817,A,F,24,Neutral,Half Left,4,0
+2961,B,F,16,Neutral,Half Right,4,1
+937,A,F,28,Afraid,Half Left,0,0
+2807,B,F,12,Angry,Half Right,1,1
+1286,A,M,03,Afraid,Half Left,0,0
+1972,A,M,23,Afraid,Half Left,0,0
+1492,A,M,08,Surprised,Straight,6,4
+584,A,F,17,Sad,Straight,5,4
+1273,A,M,02,Neutral,Straight,4,4
+441,A,F,13,Sad,Right,5,3
+3087,B,F,20,Disgusted,Half Left,2,0
+1124,A,F,33,Disgusted,Straight,2,4
+3796,B,M,05,Sad,Left,5,2
+4264,B,M,19,Disgusted,Half Right,2,1
+32,A,F,01,Surprised,Half Right,6,1
+4732,B,M,33,Disgusted,Straight,2,4
+2278,A,M,31,Surprised,Straight,6,4
+3455,B,F,30,Surprised,Left,6,2
+902,A,F,27,Afraid,Half Left,0,0
+2372,A,M,34,Neutral,Straight,4,4
+3883,B,M,08,Angry,Half Left,1,0
+636,A,F,19,Happy,Left,3,2
+1150,A,F,34,Angry,Left,1,2
+1617,A,M,12,Neutral,Left,4,2
+970,A,F,29,Afraid,Left,0,2
+4307,B,M,20,Surprised,Straight,6,4
+4016,B,M,12,Afraid,Left,0,2
+3289,B,F,26,Afraid,Straight,0,4
+4384,B,M,23,Disgusted,Left,2,2
+4220,B,M,17,Surprised,Straight,6,4
+3534,B,F,33,Afraid,Straight,0,4
+3356,B,F,28,Afraid,Right,0,3
+4538,B,M,27,Sad,Half Left,5,0
+900,A,F,27,Afraid,Left,0,2
+1329,A,M,04,Disgusted,Right,2,3
+2418,B,F,01,Afraid,Left,0,2
+4387,B,M,23,Disgusted,Half Right,2,1
+790,A,F,23,Surprised,Left,6,2
+2787,B,F,11,Neutral,Right,4,3
+4537,B,M,27,Sad,Right,5,3
+2779,B,F,11,Disgusted,Half Right,2,1
+2226,A,M,30,Happy,Right,3,3
+3321,B,F,27,Afraid,Right,0,3
+1325,A,M,04,Angry,Half Left,1,0
+2289,A,M,32,Disgusted,Left,2,2
+1653,A,M,13,Neutral,Half Right,4,1
+2060,A,M,25,Neutral,Half Left,4,0
+1628,A,M,12,Surprised,Half Right,6,1
+984,A,F,29,Disgusted,Straight,2,4
+3115,B,F,21,Angry,Left,1,2
+3219,B,F,24,Afraid,Straight,0,4
+3137,B,F,21,Sad,Half Left,5,0
+1882,A,M,20,Disgusted,Straight,2,4
+580,A,F,17,Sad,Left,5,2
+4737,B,M,33,Happy,Straight,3,4
+4716,B,M,32,Surprised,Half Right,6,1
+1171,A,F,34,Sad,Right,5,3
+762,A,F,23,Afraid,Half Left,0,0
+1948,A,M,22,Disgusted,Half Right,2,1
+633,A,F,19,Disgusted,Half Left,2,0
+2798,B,F,11,Surprised,Half Right,6,1
+2065,A,M,25,Sad,Half Left,5,0
+3756,B,M,04,Neutral,Left,4,2
+1135,A,F,33,Sad,Left,5,2
+3732,B,M,03,Surprised,Left,6,2
+3206,B,F,23,Sad,Right,5,3
+33,A,F,01,Surprised,Straight,6,4
+4154,B,M,16,Afraid,Half Left,0,0
+2021,A,M,24,Happy,Right,3,3
+397,A,F,12,Happy,Half Left,3,0
+2637,B,F,07,Angry,Straight,1,4
+440,A,F,13,Sad,Left,5,2
+2493,B,F,03,Angry,Left,1,2
+3394,B,F,29,Afraid,Straight,0,4
+434,A,F,13,Happy,Straight,3,4
+1300,A,M,03,Happy,Right,3,3
+2102,A,M,26,Surprised,Right,6,3
+3352,B,F,27,Surprised,Half Left,6,0
+1866,A,M,19,Surprised,Half Left,6,0
+1177,A,F,34,Surprised,Half Left,6,0
+4793,B,M,35,Angry,Right,1,3
+3917,B,M,09,Angry,Right,1,3
+3767,B,M,04,Surprised,Right,6,3
+1784,A,M,17,Happy,Half Right,3,1
+4766,B,M,34,Disgusted,Straight,2,4
+4313,B,M,21,Angry,Left,1,2
+1969,A,M,22,Surprised,Straight,6,4
+681,A,F,20,Sad,Right,5,3
+2970,B,F,16,Surprised,Half Left,6,0
+3186,B,F,23,Angry,Right,1,3
+3085,B,F,20,Disgusted,Left,2,2
+111,A,F,04,Angry,Half Left,1,0
+2429,B,F,01,Disgusted,Right,2,3
+1586,A,M,11,Neutral,Half Right,4,1
+747,A,F,22,Neutral,Half Left,4,0
+1946,A,M,22,Disgusted,Right,2,3
+8,A,F,01,Angry,Half Right,1,1
+4808,B,M,35,Neutral,Right,4,3
+2686,B,F,08,Neutral,Straight,4,4
+4316,B,M,21,Angry,Half Right,1,1
+1997,A,M,23,Sad,Half Left,5,0
+322,A,F,10,Disgusted,Right,2,3
+3038,B,F,18,Surprised,Half Left,6,0
+2526,B,F,04,Afraid,Half Right,0,1
+1517,A,M,09,Neutral,Straight,4,4
+4731,B,M,33,Disgusted,Half Right,2,1
+4183,B,M,16,Surprised,Right,6,3
+4046,B,M,12,Surprised,Left,6,2
+1181,A,F,35,Afraid,Right,0,3
+4746,B,M,33,Sad,Straight,5,4
+3139,B,F,21,Sad,Straight,5,4
+3092,B,F,20,Happy,Half Left,3,0
+3037,B,F,18,Surprised,Right,6,3
+1931,A,M,21,Surprised,Right,6,3
+1623,A,M,12,Sad,Half Left,5,0
+2071,A,M,25,Surprised,Half Right,6,1
+914,A,F,27,Disgusted,Straight,2,4
+3958,B,M,10,Disgusted,Half Left,2,0
+4565,B,M,28,Neutral,Left,4,2
+2669,B,F,08,Angry,Right,1,3
+3421,B,F,29,Surprised,Right,6,3
+185,A,F,06,Disgusted,Right,2,3
+3178,B,F,22,Surprised,Half Right,6,1
+4452,B,M,25,Disgusted,Left,2,2
+3347,B,F,27,Sad,Half Left,5,0
+4778,B,M,34,Sad,Right,5,3
+4010,B,M,11,Sad,Straight,5,4
+1565,A,M,11,Afraid,Half Left,0,0
+2114,A,M,27,Angry,Half Right,1,1
+3805,B,M,05,Surprised,Straight,6,4
+545,A,F,16,Sad,Left,5,2
+690,A,F,21,Afraid,Left,0,2
+740,A,F,22,Happy,Left,3,2
+4661,B,M,31,Disgusted,Half Right,2,1
+1130,A,F,33,Neutral,Left,4,2
+1601,A,M,12,Afraid,Half Right,0,1
+2347,A,M,33,Surprised,Half Right,6,1
+2882,B,F,14,Disgusted,Straight,2,4
+557,A,F,17,Afraid,Half Left,0,0
+4611,B,M,29,Surprised,Half Left,6,0
+3584,B,F,34,Happy,Straight,3,4
+4211,B,M,17,Sad,Left,5,2
+3953,B,M,10,Angry,Half Left,1,0
+2395,A,M,35,Disgusted,Half Left,2,0
+275,A,F,08,Surprised,Half Right,6,1
+3328,B,F,27,Angry,Half Right,1,1
+4090,B,M,14,Afraid,Straight,0,4
+3508,B,F,32,Disgusted,Half Right,2,1
+786,A,F,23,Sad,Right,5,3
+583,A,F,17,Sad,Half Right,5,1
+2926,B,F,15,Neutral,Half Right,4,1
+1086,A,F,32,Disgusted,Right,2,3
+2653,B,F,07,Sad,Left,5,2
+1465,A,M,08,Angry,Half Left,1,0
+701,A,F,21,Disgusted,Right,2,3
+3223,B,F,24,Angry,Half Right,1,1
+146,A,F,05,Angry,Half Left,1,0
+4763,B,M,34,Disgusted,Right,2,3
+1863,A,M,19,Sad,Straight,5,4
+206,A,F,06,Surprised,Half Left,6,0
+947,A,F,28,Disgusted,Half Left,2,0
+1500,A,M,09,Angry,Half Left,1,0
+3752,B,M,04,Happy,Right,3,3
+1149,A,F,34,Afraid,Straight,0,4
+2670,B,F,08,Angry,Half Left,1,0
+1754,A,M,16,Neutral,Right,4,3
+2931,B,F,15,Sad,Half Right,5,1
+1841,A,M,19,Angry,Right,1,3
+1183,A,F,35,Afraid,Half Right,0,1
+2954,B,F,16,Happy,Right,3,3
+1549,A,M,10,Neutral,Right,4,3
+1539,A,M,10,Disgusted,Right,2,3
+3828,B,M,06,Neutral,Half Left,4,0
+2305,A,M,32,Sad,Right,5,3
+3573,B,F,34,Angry,Half Right,1,1
+2001,A,M,23,Surprised,Right,6,3
+4152,B,M,16,Afraid,Left,0,2
+1786,A,M,17,Neutral,Left,4,2
+4780,B,M,34,Sad,Half Right,5,1
+1322,A,M,04,Afraid,Straight,0,4
+596,A,F,18,Angry,Half Left,1,0
+1740,A,M,16,Angry,Half Left,1,0
+4294,B,M,20,Happy,Half Right,3,1
+1167,A,F,34,Neutral,Half Left,4,0
+1412,A,M,06,Neutral,Straight,4,4
+3427,B,F,30,Afraid,Half Left,0,0
+4298,B,M,20,Neutral,Half Left,4,0
+2067,A,M,25,Sad,Straight,5,4
+298,A,F,09,Neutral,Right,4,3
+1499,A,M,09,Angry,Right,1,3
+1388,A,M,06,Afraid,Left,0,2
+1258,A,M,02,Angry,Half Right,1,1
+1466,A,M,08,Angry,Half Right,1,1
+455,A,F,14,Angry,Left,1,2
+67,A,F,02,Surprised,Half Right,6,1
+4235,B,M,18,Disgusted,Straight,2,4
+2058,A,M,25,Neutral,Left,4,2
+2391,A,M,35,Angry,Half Right,1,1
+2660,B,F,07,Surprised,Half Left,6,0
+909,A,F,27,Angry,Straight,1,4
+1471,A,M,08,Disgusted,Half Right,2,1
+4248,B,M,18,Sad,Half Right,5,1
+704,A,F,21,Disgusted,Straight,2,4
+819,A,F,24,Neutral,Straight,4,4
+4311,B,M,21,Afraid,Half Right,0,1
+3568,B,F,34,Afraid,Half Right,0,1
+2866,B,F,13,Surprised,Half Right,6,1
+2658,B,F,07,Surprised,Left,6,2
+2723,B,F,09,Sad,Half Left,5,0
+3167,B,F,22,Neutral,Half Left,4,0
+1165,A,F,34,Neutral,Left,4,2
+945,A,F,28,Disgusted,Left,2,2
+4464,B,M,25,Neutral,Half Left,4,0
+4341,B,M,21,Surprised,Straight,6,4
+697,A,F,21,Angry,Half Left,1,0
+861,A,F,25,Surprised,Right,6,3
+713,A,F,21,Neutral,Half Right,4,1
+1397,A,M,06,Angry,Straight,1,4
+617,A,F,18,Surprised,Left,6,2
+4602,B,M,29,Neutral,Half Left,4,0
+3409,B,F,29,Happy,Straight,3,4
+2452,B,F,01,Surprised,Straight,6,4
+536,A,F,16,Happy,Right,3,3
+4643,B,M,30,Surprised,Left,6,2
+1798,A,M,17,Surprised,Half Left,6,0
+2587,B,F,05,Sad,Straight,5,4
+2186,A,M,29,Disgusted,Right,2,3
+1717,A,M,15,Happy,Straight,3,4
+4570,B,M,28,Sad,Left,5,2
+996,A,F,29,Sad,Right,5,3
+1799,A,M,17,Surprised,Half Right,6,1
+759,A,F,22,Surprised,Straight,6,4
+3885,B,M,08,Angry,Straight,1,4
+2883,B,F,14,Happy,Left,3,2
+1675,A,M,14,Disgusted,Left,2,2
+1252,A,M,02,Afraid,Half Left,0,0
+3017,B,F,18,Angry,Straight,1,4
+80,A,F,03,Disgusted,Right,2,3
+77,A,F,03,Angry,Half Right,1,1
+374,A,F,11,Sad,Straight,5,4
+1284,A,M,03,Afraid,Left,0,2
+1352,A,M,04,Surprised,Straight,6,4
+1101,A,F,32,Sad,Right,5,3
+2726,B,F,09,Surprised,Left,6,2
+3737,B,M,04,Afraid,Left,0,2
+2466,B,F,02,Disgusted,Half Right,2,1
+3858,B,M,07,Happy,Half Left,3,0
+207,A,F,06,Surprised,Half Right,6,1
+3333,B,F,27,Disgusted,Half Right,2,1
+1093,A,F,32,Happy,Half Right,3,1
+1090,A,F,32,Happy,Left,3,2
+346,A,F,11,Afraid,Left,0,2
+271,A,F,08,Sad,Half Right,5,1
+498,A,F,15,Disgusted,Half Right,2,1
+3509,B,F,32,Disgusted,Straight,2,4
+935,A,F,28,Afraid,Left,0,2
+3530,B,F,33,Afraid,Left,0,2
+1199,A,F,35,Happy,Straight,3,4
+303,A,F,09,Sad,Right,5,3
+3825,B,M,06,Happy,Straight,3,4
+2103,A,M,26,Surprised,Half Left,6,0
+4646,B,M,30,Surprised,Half Right,6,1
+3088,B,F,20,Disgusted,Half Right,2,1
+3291,B,F,26,Angry,Right,1,3
+2535,B,F,04,Disgusted,Half Left,2,0
+342,A,F,10,Surprised,Right,6,3
+1333,A,M,04,Happy,Left,3,2
+2461,B,F,02,Angry,Half Right,1,1
+432,A,F,13,Happy,Half Left,3,0
+883,A,F,26,Happy,Half Right,3,1
+4156,B,M,16,Afraid,Straight,0,4
+3146,B,F,22,Afraid,Right,0,3
+2509,B,F,03,Neutral,Right,4,3
+4030,B,M,12,Disgusted,Straight,2,4
+148,A,F,05,Angry,Straight,1,4
+848,A,F,25,Happy,Half Right,3,1
+1666,A,M,14,Afraid,Right,0,3
+1621,A,M,12,Sad,Left,5,2
+1437,A,M,07,Disgusted,Straight,2,4
+2256,A,M,31,Disgusted,Half Left,2,0
+897,A,F,26,Surprised,Half Left,6,0
+1265,A,M,02,Happy,Left,3,2
+2586,B,F,05,Sad,Half Right,5,1
+2949,B,F,16,Disgusted,Right,2,3
+3256,B,F,25,Angry,Right,1,3
+436,A,F,13,Neutral,Right,4,3
+4779,B,M,34,Sad,Half Left,5,0
+1184,A,F,35,Afraid,Straight,0,4
+3419,B,F,29,Sad,Straight,5,4
+1881,A,M,20,Disgusted,Half Right,2,1
+3746,B,M,04,Disgusted,Left,2,2
+1134,A,F,33,Neutral,Straight,4,4
+1107,A,F,32,Surprised,Half Left,6,0
+1523,A,M,09,Surprised,Left,6,2
+4561,B,M,28,Happy,Right,3,3
+2150,A,M,28,Angry,Straight,1,4
+4322,B,M,21,Happy,Left,3,2
+3066,B,F,19,Sad,Right,5,3
+3468,B,F,31,Angry,Half Right,1,1
+2707,B,F,09,Disgusted,Right,2,3
+1827,A,M,18,Sad,Half Left,5,0
+1122,A,F,33,Disgusted,Half Left,2,0
+88,A,F,03,Happy,Straight,3,4
+3129,B,F,21,Happy,Straight,3,4
+4004,B,M,11,Neutral,Half Right,4,1
+1098,A,F,32,Neutral,Half Right,4,1
+4673,B,M,31,Sad,Left,5,2
+2184,A,M,29,Angry,Straight,1,4
+1315,A,M,03,Surprised,Half Left,6,0
+1515,A,M,09,Neutral,Half Left,4,0
+3851,B,M,07,Disgusted,Left,2,2
+2889,B,F,14,Neutral,Right,4,3
+2469,B,F,02,Happy,Right,3,3
+3214,B,F,23,Surprised,Straight,6,4
+3013,B,F,18,Angry,Left,1,2
+4526,B,M,27,Happy,Left,3,2
+3369,B,F,28,Disgusted,Straight,2,4
+1509,A,M,09,Happy,Right,3,3
+1564,A,M,11,Afraid,Right,0,3
+4667,B,M,31,Happy,Straight,3,4
+4357,B,M,22,Happy,Half Left,3,0
+3436,B,F,30,Disgusted,Right,2,3
+1091,A,F,32,Happy,Right,3,3
+1047,A,F,31,Angry,Half Left,1,0
+3430,B,F,30,Angry,Left,1,2
+4432,B,M,24,Sad,Left,5,2
+707,A,F,21,Happy,Half Left,3,0
+2091,A,M,26,Neutral,Left,4,2
+2177,A,M,29,Afraid,Half Left,0,0
+1744,A,M,16,Disgusted,Right,2,3
+1373,A,M,05,Neutral,Left,4,2
+2421,B,F,01,Afraid,Half Right,0,1
+3795,B,M,05,Neutral,Straight,4,4
+915,A,F,27,Happy,Left,3,2
+219,A,F,07,Disgusted,Left,2,2
+1661,A,M,13,Surprised,Right,6,3
+1929,A,M,21,Sad,Straight,5,4
+1029,A,F,30,Neutral,Straight,4,4
+2298,A,M,32,Happy,Straight,3,4
+4022,B,M,12,Angry,Right,1,3
+1065,A,F,31,Sad,Left,5,2
+3755,B,M,04,Happy,Straight,3,4
+4026,B,M,12,Disgusted,Left,2,2
+82,A,F,03,Disgusted,Half Right,2,1
+3727,B,M,03,Sad,Left,5,2
+524,A,F,16,Afraid,Straight,0,4
+4177,B,M,16,Sad,Left,5,2
+558,A,F,17,Afraid,Half Right,0,1
+4599,B,M,29,Happy,Straight,3,4
+169,A,F,05,Surprised,Left,6,2
+181,A,F,06,Angry,Half Left,1,0
+4727,B,M,33,Angry,Straight,1,4
+1688,A,M,14,Neutral,Half Right,4,1
+765,A,F,23,Angry,Left,1,2
+1835,A,M,19,Afraid,Left,0,2
+2991,B,F,17,Happy,Half Right,3,1
+2504,B,F,03,Happy,Right,3,3
+782,A,F,23,Neutral,Half Left,4,0
+253,A,F,08,Angry,Straight,1,4
+4686,B,M,32,Afraid,Half Right,0,1
+358,A,F,11,Disgusted,Half Left,2,0
+144,A,F,05,Angry,Left,1,2
+3389,B,F,28,Surprised,Straight,6,4
+1100,A,F,32,Sad,Left,5,2
+4361,B,M,22,Neutral,Right,4,3
+1526,A,M,09,Surprised,Half Right,6,1
+4604,B,M,29,Sad,Left,5,2
+2146,A,M,28,Angry,Left,1,2
+683,A,F,20,Sad,Half Right,5,1
+3614,B,F,35,Disgusted,Straight,2,4
+3579,B,F,34,Disgusted,Straight,2,4
+611,A,F,18,Neutral,Half Right,4,1
+1395,A,M,06,Angry,Half Left,1,0
+230,A,F,07,Neutral,Right,4,3
+35,A,F,02,Afraid,Right,0,3
+3686,B,M,02,Happy,Straight,3,4
+1116,A,F,33,Angry,Right,1,3
+3590,B,F,34,Sad,Left,5,2
+2503,B,F,03,Happy,Left,3,2
+2847,B,F,13,Disgusted,Half Right,2,1
+2495,B,F,03,Angry,Half Left,1,0
+3274,B,F,25,Neutral,Straight,4,4
+1712,A,M,15,Disgusted,Straight,2,4
+4601,B,M,29,Neutral,Right,4,3
+4797,B,M,35,Disgusted,Left,2,2
+526,A,F,16,Angry,Right,1,3
+254,A,F,08,Disgusted,Left,2,2
+4594,B,M,29,Disgusted,Straight,2,4
+3802,B,M,05,Surprised,Right,6,3
+3298,B,F,26,Disgusted,Half Right,2,1
+1773,A,M,17,Angry,Right,1,3
+3122,B,F,21,Disgusted,Half Left,2,0
+1638,A,M,13,Angry,Half Right,1,1
+4065,B,M,13,Disgusted,Straight,2,4
+476,A,F,14,Sad,Right,5,3
+2072,A,M,25,Surprised,Straight,6,4
+2319,A,M,33,Angry,Left,1,2
+4391,B,M,23,Happy,Half Left,3,0
+2568,B,F,05,Disgusted,Left,2,2
+2440,B,F,01,Neutral,Half Left,4,0
+3897,B,M,08,Neutral,Right,4,3
+2690,B,F,08,Sad,Half Right,5,1
+3294,B,F,26,Angry,Straight,1,4
+4807,B,M,35,Neutral,Left,4,2
+974,A,F,29,Afraid,Straight,0,4
+1309,A,M,03,Sad,Left,5,2
+1847,A,M,19,Disgusted,Half Left,2,0
+1113,A,F,33,Afraid,Half Right,0,1
+366,A,F,11,Neutral,Left,4,2
+4034,B,M,12,Happy,Half Right,3,1
+2396,A,M,35,Disgusted,Half Right,2,1
+2539,B,F,04,Happy,Right,3,3
+4057,B,M,13,Angry,Right,1,3
+384,A,F,12,Afraid,Straight,0,4
+4405,B,M,23,Surprised,Right,6,3
+2408,A,M,35,Sad,Left,5,2
+2249,A,M,31,Angry,Left,1,2
+344,A,F,10,Surprised,Half Right,6,1
+3654,B,M,01,Neutral,Right,4,3
+1220,A,M,01,Angry,Left,1,2
+2437,B,F,01,Happy,Straight,3,4
+233,A,F,07,Neutral,Straight,4,4
+893,A,F,26,Sad,Half Right,5,1
+413,A,F,12,Surprised,Half Right,6,1
+1344,A,M,04,Sad,Right,5,3
+4597,B,M,29,Happy,Half Left,3,0
+3844,B,M,07,Afraid,Half Right,0,1
+3758,B,M,04,Neutral,Half Left,4,0
+4309,B,M,21,Afraid,Right,0,3
+3300,B,F,26,Happy,Left,3,2
+2969,B,F,16,Surprised,Right,6,3
+752,A,F,22,Sad,Half Left,5,0
+2030,A,M,24,Sad,Right,5,3
+3007,B,F,17,Surprised,Straight,6,4
+2456,B,F,02,Afraid,Half Right,0,1
+1789,A,M,17,Neutral,Half Right,4,1
+615,A,F,18,Sad,Half Left,5,0
+1170,A,F,34,Sad,Left,5,2
+3391,B,F,29,Afraid,Right,0,3
+2383,A,M,35,Afraid,Left,0,2
+1699,A,M,14,Surprised,Straight,6,4
+1332,A,M,04,Disgusted,Straight,2,4
+3462,B,F,31,Afraid,Half Left,0,0
+3273,B,F,25,Neutral,Half Right,4,1
+3963,B,M,10,Happy,Half Left,3,0
+3312,B,F,26,Sad,Half Left,5,0
+1254,A,M,02,Afraid,Straight,0,4
+4302,B,M,20,Sad,Half Right,5,1
+1584,A,M,11,Neutral,Right,4,3
+2160,A,M,28,Neutral,Left,4,2
+1745,A,M,16,Disgusted,Half Left,2,0
+1153,A,F,34,Angry,Half Right,1,1
+3440,B,F,30,Happy,Left,3,2
+1809,A,M,18,Angry,Straight,1,4
+3422,B,F,29,Surprised,Half Left,6,0
+1366,A,M,05,Disgusted,Half Right,2,1
+232,A,F,07,Neutral,Half Right,4,1
+284,A,F,09,Angry,Half Left,1,0
+18,A,F,01,Happy,Half Right,3,1
+3311,B,F,26,Sad,Right,5,3
+2966,B,F,16,Sad,Half Right,5,1
+842,A,F,25,Disgusted,Half Left,2,0
+1537,A,M,10,Angry,Straight,1,4
+3859,B,M,07,Happy,Half Right,3,1
+1304,A,M,03,Neutral,Left,4,2
+3912,B,M,09,Afraid,Right,0,3
+2793,B,F,11,Sad,Half Left,5,0
+1459,A,M,08,Afraid,Right,0,3
+2339,A,M,33,Sad,Left,5,2
+1321,A,M,04,Afraid,Half Right,0,1
+4185,B,M,16,Surprised,Half Right,6,1
+2251,A,M,31,Angry,Half Left,1,0
+745,A,F,22,Neutral,Left,4,2
+688,A,F,20,Surprised,Half Right,6,1
+27,A,F,01,Sad,Half Left,5,0
+2257,A,M,31,Disgusted,Half Right,2,1
+3020,B,F,18,Disgusted,Half Left,2,0
+2739,B,F,10,Angry,Half Right,1,1
+4159,B,M,16,Angry,Half Left,1,0
+1264,A,M,02,Disgusted,Straight,2,4
+4201,B,M,17,Disgusted,Straight,2,4
+2148,A,M,28,Angry,Half Left,1,0
+4618,B,M,30,Angry,Left,1,2
+1682,A,M,14,Happy,Half Left,3,0
+2358,A,M,34,Angry,Straight,1,4
+4806,B,M,35,Happy,Straight,3,4
+1878,A,M,20,Disgusted,Left,2,2
+3855,B,M,07,Disgusted,Straight,2,4
+4640,B,M,30,Sad,Half Left,5,0
+4518,B,M,27,Angry,Half Left,1,0
+302,A,F,09,Sad,Left,5,2
+1048,A,F,31,Angry,Half Right,1,1
+1071,A,F,31,Surprised,Right,6,3
+382,A,F,12,Afraid,Half Left,0,0
+1361,A,M,05,Angry,Half Right,1,1
+3378,B,F,28,Neutral,Half Right,4,1
+1195,A,F,35,Happy,Left,3,2
+3781,B,M,05,Disgusted,Left,2,2
+1897,A,M,20,Surprised,Half Left,6,0
+2582,B,F,05,Neutral,Straight,4,4
+3603,B,F,35,Afraid,Half Right,0,1
+957,A,F,28,Neutral,Half Left,4,0
+2837,B,F,13,Afraid,Half Right,0,1
+3913,B,M,09,Afraid,Half Left,0,0
